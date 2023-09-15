@@ -14,11 +14,7 @@ from scipy.stats import mannwhitneyu
 import scipy.stats as stats
 from datetime import datetime
 from tabulate import tabulate
-import statsmodels.formula.api as smf
-from statsmodels.api import add_constant
-from statsmodels.sandbox.regression.gmm import IV2SLS
-from linearmodels.iv import IV2SLS
-
+import seaborn as sns
 
 #Loading Data
 
@@ -30,24 +26,27 @@ teachers = pd.read_csv(os.path.join(base, 'Example_teacher_data_final.csv'))
 
 #This is based off the analysis I did of an actual RCT for the TMW Center
 #However of course this isn't the real data from the study because of confidentiality. 
-#Instead this data was created in excel using packages which allowed me to draw random 
-#data with different probability's for some of the binary demographic data and following 
-# a normal distribution for the test score data. This included the birthdates which were randomly drawn
-#The original study also included student skills data collected at each of the three stages of the study
-#for which I calculated normalized scores; however to keep this sample from being too long 
-#I chose not to include this and some orginal components of the project here. 
+#Instead this data was created in excel using packages which allowed me to draw 
+#random data with different probability's for some of the binary demographic data 
+#and following a normal distribution for the test score data. This included the 
+#birthdates which were randomly drawn. The original study also included student 
+#skills data collected at each of the three stages of the study for which I calculated 
+#normalized scores; however to keep this sample from being too long. I chose not 
+#to include this and some orginal components of the project here. 
 
 
-#in the orignial dataproject more initial cleaning was nescessary including data pivoting and merging multple datasets
-#however I have simplified this to avoid this sample being too long. 
+#in the orignial dataproject more initial cleaning was nescessary including data 
+#pivoting and merging multple datasets however I have simplified this to avoid
+#this sample being too long. 
 
-#first I'm making the treatment 1 and control 0, initially control was 2 and I wanted use something more standard
+#first I'm making the treatment 1 and control 0, initially control was 2 and I 
+#wanted use something more standard
 teachers["admin condition_educator"] = teachers["admin condition_educator"].replace({2:0})
 
 
 
-#Here I'm making a summed score for the main survey results,
-# and averages for the two behavioral surveys 
+#Here I'm making a summed score for the main survey results, and averages for the 
+#two behavioral surveys 
 
 survey_list = ["survey_1", "survey_2", "survey_3"]
 for survey in survey_list:
@@ -77,9 +76,9 @@ for survey in survey_list:
     teachers[ survey + ' score total'].replace(0, np.nan, inplace=True)
 
 
-#now I'm cleaning the demographic variables and creating dummy variables for ease in analysis 
+#Now I'm cleaning the demographic variables and creating dummy variables for ease 
+#in analysis 
 
-teachers.columns.to_list()
 
 
 teachers['admin date_of_birth'] = pd.to_datetime(teachers['admin date_of_birth'])   
@@ -153,9 +152,9 @@ def balance_tables(col_list, df):
         dif_means.append(dif_mean)
         p_t_test = stats.ttest_ind(a=control, b=treatment, equal_var=True).pvalue
         p_t_test_stars = str(round(p_t_test,2))
-        if p_t_test < 0.1:
+        if p_t_test < 0.1 and p_t_test > 0.05:
             p_t_test_stars = p_t_test_stars + '*' 
-        if p_t_test < 0.05:
+        if p_t_test < 0.05 and p_t_test > 0.01:
             p_t_test_stars = p_t_test_stars + '**'
         if p_t_test < 0.01:
             p_t_test_stars = p_t_test_stars + '***'
@@ -182,15 +181,17 @@ t.set_fontsize(8)
 t.auto_set_column_width(col=list(range(len(demographic_teachers.columns)))) 
 plt.show()
 
-#There are only two variables that are significantly different at the 10% level using a T-Test
-#These include having 1 year or less in early childhood education and having other insurance
-#It isn't surprising that just by chance some of the variables are significant at the 10% level 
-#given the number of variables. These two variables I will include as covariates when running this as an OLS study
+#There are only two variables that are significantly different at the 10% level 
+#using a T-Test. These include having 1 year or less in early childhood education 
+#and having other insurance. It isn't surprising that just by chance some of the 
+#variables are significant at the 10% level given the number of variables. 
+#These two variables I will include as covariates when running this as an OLS study
 
-#Here I plotted the data to provide a sense of the relationship between control and treatment and
-#the main surveys, and the two sets of behavior based questions. One of the behavior questions asked how 
-#many days a week do teachers engage in key learning behaviors, the other survey asked from a scale to 1-4,
-#4 being always and 1 being never do they encourage parents to engage in specific behavior  
+#Here I plotted the data to provide a sense of the relationship between control 
+#and treatment and the main surveys, and the two sets of behavior based questions. 
+#One of the behavior questions asked how many days a week do teachers engage in 
+#key learning behaviors, the other survey asked from a scale to 1-4, 4 being always 
+#and 1 being never do they encourage parents to engage in specific behavior  
 
 def plot_maker(var, limL, limU, yname, labelset, main_name):
     days = [60,120,180]
@@ -222,61 +223,77 @@ plot_maker("score total", 50, 80, "total score", 7, "Main Scores Control and Tre
 plot_maker("behavior weekly total", 0, 7, "Number of Days per Week", 1, "On Avergage Number of Times Teachers Engaged in Key Behaviors")
 plot_maker("behavior ordinal total", 0, 4, "Scale from Never (0) to Always (4)", 0.8, "Frequency Teachers Encouraged Parents to Engage in Key Behaviors")
 
-#Its not surprising that there doesn't appear to be a significant relationship between any of the variables
-#because they were all just randomly generated here to demonstrate real work I did
+#Its not surprising that there doesn't appear to be a significant relationship 
+#between any of the variables because they were all just randomly generated here
+#to demonstrate real work I did
 
 #Running OLS 
-#This function runs multiple regressions at the same time and extracts the key information I needed in a table
+#This function runs multiple regressions at the same time and extracts the key 
+#information I needed in a table. If set to predict it creates a list of predicted 
+#and actual y variables.
 
-def model_maker_pandas(v, df, list_of_vals = None):
+
+def model_maker_pandas(v, df, list_of_vals = None, predict = False):
     survey_list = ["survey_1", "survey_2", "survey_3"]
     for survey in survey_list:
         if survey == "survey_1" and list_of_vals is None:
-            days_60= pd.concat([df['survey_1 ' + v], df["admin condition_educator"]], axis=1).dropna()
-            x60 = sm.add_constant(days_60["admin condition_educator"])
+            df_2 = pd.concat([df['survey_1 ' + v], df["admin condition_educator"]], axis=1).dropna()
+            x = sm.add_constant(df_2["admin condition_educator"])
         elif survey == "survey_1" and list_of_vals is not None:
             list_ed = [df['survey_1 ' + v], df["admin condition_educator"]]
             list2 = ["admin condition_educator"]
             for i in list_of_vals:
                 list_ed.append(df[i])
                 list2.append(i)
-            days_60= pd.concat(list_ed, axis=1).dropna()
-            x60 = sm.add_constant(days_60[list2])  
+            df_2= pd.concat(list_ed, axis=1).dropna()
+            x = sm.add_constant(df_2[list2])  
         elif survey != "survey_1" and list_of_vals is None: 
-             days_60= pd.concat([df[survey + ' ' + v], df['survey_1 ' + v], df["admin condition_educator"]], axis=1).dropna()
-             x60 = sm.add_constant(days_60[["admin condition_educator", 'survey_1 ' + v]])
+             df_2= pd.concat([df[survey + ' ' + v], df['survey_1 ' + v], df["admin condition_educator"]], axis=1).dropna()
+             x = sm.add_constant(df_2[["admin condition_educator", 'survey_1 ' + v]])
         else:
             list_ed = [df['survey_1 ' + v], df["admin condition_educator"], df[survey + ' ' + v]]
             list2 = ["admin condition_educator", 'survey_1 ' + v]
             for i in list_of_vals:
                 list_ed.append(df[i])
                 list2.append(i)
-            days_60= pd.concat(list_ed, axis=1).dropna()
-            x60 = sm.add_constant(days_60[list2])
-        y60 = days_60[survey + ' ' + v]
-        model_60 = sm.OLS(y60, x60).fit()
-        test = round(model_60.params,4)
-        test_se = round(model_60.bse, 4) 
-        test_pvalues = round(model_60.pvalues,3)
-        test_pvalues.index = test_pvalues.index + " p-value"
-        test_se.index = test_se.index + " SE"
-        rsquared = round(model_60.rsquared,4)
-        rsquared_adjusted = round(model_60.rsquared_adj,4)
-        nrows = len(days_60.index)
-        rsquared_series = pd.Series([rsquared,rsquared_adjusted, nrows])
-        rsquared_series = rsquared_series.set_axis(["R-Squared", "Adj R-Squared", "N"])
-        test = test.append(test_pvalues)
-        test = test.append(test_se)
-        test = test.append(rsquared_series)
-        test_2 = test.to_frame()
-        test_2= test_2.reset_index()
-        test_2 = test_2.rename(columns={"index": "variable", 0: survey + ' ' + v})
-        if survey == 'survey_1':
-            final = test_2.sort_values('variable')
+            df_2= pd.concat(list_ed, axis=1).dropna()
+            x = sm.add_constant(df_2[list2])
+        y = df_2[survey + ' ' + v]
+        model = sm.OLS(y, x).fit()
+        if predict is True:
+            predictedValues = model.predict()
+            predictedValues = pd.DataFrame(data=predictedValues)
+            predictedValues['Y ' + survey +' ' +v] = y
+            predictedValues = predictedValues.rename(columns={0: 'Predicted ' + survey + ' ' + v})
+            if survey == 'survey_1':
+                final = predictedValues
+            else: 
+                final = pd.concat([final,predictedValues], axis=1)
         else: 
-            final = final.merge(test_2, how='outer', on='variable')
-            final = final.sort_values('variable')
+            test = round(model.params,4)
+            test_se = round(model.bse, 4) 
+            test_pvalues = round(model.pvalues,3)
+            test_pvalues.index = test_pvalues.index + " p-value"
+            test_se.index = test_se.index + " SE"
+            rsquared = round(model.rsquared,4)
+            rsquared_adjusted = round(model.rsquared_adj,4)
+            nrows = len(df_2.index)
+            rsquared_series = pd.Series([rsquared,rsquared_adjusted, nrows])
+            rsquared_series = rsquared_series.set_axis(["R-Squared", "Adj R-Squared", "N"])
+            test = test.append(test_pvalues)
+            test = test.append(test_se)
+            test = test.append(rsquared_series)
+            test_2 = test.to_frame()
+            test_2= test_2.reset_index()
+            test_2 = test_2.rename(columns={"index": "variable", 0: survey + ' ' + v})
+            if survey == 'survey_1':
+                final = test_2.sort_values('variable')
+            else: 
+                final = final.merge(test_2, how='outer', on='variable')
+                final = final.sort_values('variable')
     return(final)
+            
+
 
 
 main_OLS_df = model_maker_pandas("score total", teachers)
@@ -291,14 +308,44 @@ print(tabulate(main_OLS_df_covariates, headers = 'keys', tablefmt = 'psql'))
 
 
 
+#Visually Checking how well the model fits the data
+def visual_check(v, teachers, survey, list_of_vals = None):    
+    model_maker_pandas(v, teachers, list_of_vals = None, predict = False)
+    predicted = model_maker_pandas(v, teachers, predict = True)
+    predicted.columns.to_list()
+    sns.lmplot( y = 'Predicted '+ survey + ' '+ v, x=  'Y ' + survey + ' '+ v, data=predicted, fit_reg=False)
+    min_point = min(min(predicted['Predicted '+ survey + ' '+ v]), min(predicted['Y ' + survey + ' '+ v])) 
+    max_point = max(max(predicted['Predicted '+ survey + ' '+ v]), max(predicted['Y ' + survey + ' '+ v])) 
+    line_coords = np.arange(min_point, max_point)
+    plt.plot(line_coords, line_coords, 
+         color='darkred', linestyle='--')
+    survey_name = survey.replace("_", " ").title()
+    v = v.title()
+    if list_of_vals is None:
+        plt.title(survey_name + ' ' + v)
+    else:
+        plt.title( survey_name + ' ' + v + ' with Demographics')
+    plt.xlabel ('Actual')
+    plt.ylabel ('Predicted')
+    plt.show()           
 
-#However this doesn't end this stage of the teacher data for the project
-#The full intervention included the completion of 8 educational modules by teachers between survey 1 and survey 2 
-#However not all teachers completed the intervention Modules with a few only completing some of the modules
 
-#Here I created some plots demonstrating module completion
-#It shows that while nobody in the control group got access to the modules some
-#people in the treament only partially recieved the intervention:
+follow_up_surveys = ['survey_2', 'survey_3']
+for survey in follow_up_surveys: 
+    visual_check("score total", teachers, survey)
+
+for survey in follow_up_surveys: 
+    visual_check("score total", teachers, survey, unbalanced_demographics)
+
+#However this doesn't end this stage of the teacher data for the project The full 
+#intervention included the completion of 8 educational modules by teachers between 
+#survey 1 and survey 2; however not all teachers completed the intervention Modules
+# with a few only completing some of the modules.
+
+#Here I created some plots demonstrating module completion. It shows that while 
+#nobody in the control group got access to the modules some people in the treament 
+#only partially recieved the intervention.
+
 ax = teachers.groupby([ "admin condition_educator", "modules"]).size().unstack().plot(kind='bar', stacked=True, cmap= 'summer')
 ax.set(xlabel =" Treatment Status", ylabel = "Number of Educators", title ='Completion of Intervention Modules')
 legend_handles, _= ax.get_legend_handles_labels()
@@ -320,8 +367,9 @@ for bar in ax.patches:
             size=10
         )
         
-#I also want to understand of those who completed the modules who took the surveys, because some people didn't take
-#the survey  
+        
+#I also want to understand of those who completed the modules who took the surveys,
+#because some people didn't take the survey  
     
 treatment_data = teachers.loc[teachers["admin condition_educator"] == 1]    
 treatment_data.loc[treatment_data["admin condition_educator"] == 1]
@@ -375,10 +423,10 @@ teachers2_survey2 = teachers2.dropna(subset=['survey_2 score total', 'survey_1 s
 model_ss_survey3 = sm.OLS(teachers2_survey2['survey_2 score total'], teachers2_survey2[['const', 'predicted', 'survey_1 score total']]).fit()
 print(model_ss_survey3.summary())
 
-#Of course there wasn't an effect of the modules in this example 
-#because the data was created using a random number generator
-#however there is a correlation between the first survey results and 
-#the second and third because in creating the scores I randomly pulled numbers
-#from the first survey from a normal distribution and pulled for the second and third
-#pulled a number from a normal distribution and then averaged the numbers from the first the survey
-#and the new number pulled to create a score from survey 2 and survey 3 
+#Of course there wasn't an effect of the modules in this example, because the data 
+#was created using a random number generator; however there is a correlation between 
+#the first survey results and the second and third because in creating the scores 
+#I randomly pulled numbers from the first survey from a normal distribution and
+#pulled for the second and third pulled a number from a normal distribution and
+#then averaged the numbers from the first the survey and the new number pulled 
+#to create a score from survey 2 and survey 3. 
