@@ -1,0 +1,4057 @@
+LocationType,Location,Age group,TimeFrame,DataFormat,Data
+State,Alabama,less than 6,2019,Number,101000
+State,Alabama,less than 13,2019,Number,222000
+State,Alabama,less than 18,2019,Number,290000
+State,Alabama,less than 6,2021,Number,98000
+State,Alabama,less than 13,2021,Number,203000
+State,Alabama,less than 18,2021,Number,272000
+State,Alabama,less than 13,2017,Number,222000
+State,Alabama,less than 18,2017,Number,289000
+State,Alabama,less than 6,2017,Number,100000
+State,Alabama,less than 18,2016,Number,292000
+State,Alabama,less than 6,2016,Number,97000
+State,Alabama,less than 13,2016,Number,219000
+State,Alabama,less than 6,2012,Number,104000
+State,Alabama,less than 13,2012,Number,223000
+State,Alabama,less than 18,2012,Number,296000
+State,Alabama,less than 13,2014,Number,231000
+State,Alabama,less than 18,2014,Number,307000
+State,Alabama,less than 6,2014,Number,105000
+State,Alabama,less than 6,2011,Number,99000
+State,Alabama,less than 13,2011,Number,216000
+State,Alabama,less than 18,2011,Number,293000
+State,Alabama,less than 6,2015,Number,94000
+State,Alabama,less than 13,2015,Number,218000
+State,Alabama,less than 18,2015,Number,289000
+State,Alabama,less than 6,2010,Number,93000
+State,Alabama,less than 13,2010,Number,200000
+State,Alabama,less than 18,2010,Number,274000
+State,Alabama,less than 13,2009,Number,204000
+State,Alabama,less than 18,2009,Number,274000
+State,Alabama,less than 6,2009,Number,96000
+State,Alabama,less than 6,2013,Number,102000
+State,Alabama,less than 13,2013,Number,220000
+State,Alabama,less than 18,2013,Number,295000
+State,Alabama,less than 6,2018,Number,92000
+State,Alabama,less than 13,2018,Number,200000
+State,Alabama,less than 18,2018,Number,266000
+State,Alabama,less than 6,2008,Number,89000
+State,Alabama,less than 13,2008,Number,193000
+State,Alabama,less than 18,2008,Number,265000
+State,Alaska,less than 6,2008,Number,10000
+State,Alaska,less than 13,2008,Number,20000
+State,Alaska,less than 18,2008,Number,25000
+State,Alaska,less than 6,2013,Number,12000
+State,Alaska,less than 13,2013,Number,25000
+State,Alaska,less than 18,2013,Number,31000
+State,Alaska,less than 6,2018,Number,11000
+State,Alaska,less than 13,2018,Number,23000
+State,Alaska,less than 18,2018,Number,28000
+State,Alaska,less than 13,2009,Number,20000
+State,Alaska,less than 18,2009,Number,27000
+State,Alaska,less than 6,2009,Number,10000
+State,Alaska,less than 6,2010,Number,11000
+State,Alaska,less than 13,2010,Number,19000
+State,Alaska,less than 18,2010,Number,25000
+State,Alaska,less than 6,2011,Number,14000
+State,Alaska,less than 13,2011,Number,30000
+State,Alaska,less than 18,2011,Number,40000
+State,Alaska,less than 6,2015,Number,13000
+State,Alaska,less than 13,2015,Number,26000
+State,Alaska,less than 18,2015,Number,32000
+State,Alaska,less than 13,2014,Number,26000
+State,Alaska,less than 18,2014,Number,32000
+State,Alaska,less than 6,2014,Number,12000
+State,Alaska,less than 6,2012,Number,13000
+State,Alaska,less than 13,2012,Number,23000
+State,Alaska,less than 18,2012,Number,32000
+State,Alaska,less than 6,2016,Number,11000
+State,Alaska,less than 13,2016,Number,24000
+State,Alaska,less than 18,2016,Number,29000
+State,Alaska,less than 13,2017,Number,27000
+State,Alaska,less than 18,2017,Number,32000
+State,Alaska,less than 6,2017,Number,12000
+State,Alaska,less than 6,2021,Number,12000
+State,Alaska,less than 13,2021,Number,24000
+State,Alaska,less than 18,2021,Number,29000
+State,Alaska,less than 6,2019,Number,13000
+State,Alaska,less than 13,2019,Number,28000
+State,Alaska,less than 18,2019,Number,33000
+State,Arizona,less than 6,2019,Number,147000
+State,Arizona,less than 13,2019,Number,333000
+State,Arizona,less than 18,2019,Number,450000
+State,Arizona,less than 6,2021,Number,121000
+State,Arizona,less than 13,2021,Number,280000
+State,Arizona,less than 18,2021,Number,382000
+State,Arizona,less than 13,2017,Number,344000
+State,Arizona,less than 18,2017,Number,457000
+State,Arizona,less than 6,2017,Number,144000
+State,Arizona,less than 18,2016,Number,472000
+State,Arizona,less than 6,2016,Number,157000
+State,Arizona,less than 13,2016,Number,349000
+State,Arizona,less than 6,2012,Number,159000
+State,Arizona,less than 13,2012,Number,349000
+State,Arizona,less than 18,2012,Number,465000
+State,Arizona,less than 13,2014,Number,353000
+State,Arizona,less than 18,2014,Number,471000
+State,Arizona,less than 6,2014,Number,161000
+State,Arizona,less than 6,2015,Number,158000
+State,Arizona,less than 13,2015,Number,367000
+State,Arizona,less than 18,2015,Number,482000
+State,Arizona,less than 6,2011,Number,166000
+State,Arizona,less than 13,2011,Number,353000
+State,Arizona,less than 18,2011,Number,473000
+State,Arizona,less than 6,2010,Number,165000
+State,Arizona,less than 13,2010,Number,355000
+State,Arizona,less than 18,2010,Number,470000
+State,Arizona,less than 13,2009,Number,355000
+State,Arizona,less than 18,2009,Number,458000
+State,Arizona,less than 6,2009,Number,172000
+State,Arizona,less than 6,2018,Number,158000
+State,Arizona,less than 13,2018,Number,342000
+State,Arizona,less than 18,2018,Number,460000
+State,Arizona,less than 6,2013,Number,156000
+State,Arizona,less than 13,2013,Number,355000
+State,Arizona,less than 18,2013,Number,482000
+State,Arizona,less than 6,2008,Number,176000
+State,Arizona,less than 13,2008,Number,353000
+State,Arizona,less than 18,2008,Number,460000
+State,Arkansas,less than 6,2008,Number,76000
+State,Arkansas,less than 13,2008,Number,160000
+State,Arkansas,less than 18,2008,Number,210000
+State,Arkansas,less than 6,2018,Number,73000
+State,Arkansas,less than 13,2018,Number,161000
+State,Arkansas,less than 18,2018,Number,215000
+State,Arkansas,less than 6,2013,Number,78000
+State,Arkansas,less than 13,2013,Number,174000
+State,Arkansas,less than 18,2013,Number,222000
+State,Arkansas,less than 13,2009,Number,163000
+State,Arkansas,less than 18,2009,Number,212000
+State,Arkansas,less than 6,2009,Number,76000
+State,Arkansas,less than 6,2010,Number,75000
+State,Arkansas,less than 13,2010,Number,161000
+State,Arkansas,less than 18,2010,Number,212000
+State,Arkansas,less than 6,2011,Number,73000
+State,Arkansas,less than 13,2011,Number,157000
+State,Arkansas,less than 18,2011,Number,208000
+State,Arkansas,less than 6,2015,Number,73000
+State,Arkansas,less than 13,2015,Number,161000
+State,Arkansas,less than 18,2015,Number,206000
+State,Arkansas,less than 13,2014,Number,161000
+State,Arkansas,less than 18,2014,Number,214000
+State,Arkansas,less than 6,2014,Number,75000
+State,Arkansas,less than 6,2012,Number,77000
+State,Arkansas,less than 13,2012,Number,165000
+State,Arkansas,less than 18,2012,Number,216000
+State,Arkansas,less than 6,2016,Number,70000
+State,Arkansas,less than 13,2016,Number,160000
+State,Arkansas,less than 18,2016,Number,211000
+State,Arkansas,less than 13,2017,Number,165000
+State,Arkansas,less than 18,2017,Number,219000
+State,Arkansas,less than 6,2017,Number,72000
+State,Arkansas,less than 6,2021,Number,67000
+State,Arkansas,less than 13,2021,Number,150000
+State,Arkansas,less than 18,2021,Number,198000
+State,Arkansas,less than 6,2019,Number,75000
+State,Arkansas,less than 13,2019,Number,164000
+State,Arkansas,less than 18,2019,Number,217000
+State,California,less than 6,2019,Number,636000
+State,California,less than 13,2019,Number,1503000
+State,California,less than 18,2019,Number,2072000
+State,California,less than 6,2021,Number,465000
+State,California,less than 13,2021,Number,1150000
+State,California,less than 18,2021,Number,1637000
+State,California,less than 13,2017,Number,1603000
+State,California,less than 18,2017,Number,2183000
+State,California,less than 6,2017,Number,682000
+State,California,less than 18,2016,Number,2312000
+State,California,less than 6,2016,Number,742000
+State,California,less than 13,2016,Number,1694000
+State,California,less than 6,2012,Number,783000
+State,California,less than 13,2012,Number,1753000
+State,California,less than 18,2012,Number,2416000
+State,California,less than 13,2014,Number,1762000
+State,California,less than 18,2014,Number,2417000
+State,California,less than 6,2014,Number,771000
+State,California,less than 6,2015,Number,776000
+State,California,less than 13,2015,Number,1767000
+State,California,less than 18,2015,Number,2405000
+State,California,less than 6,2011,Number,759000
+State,California,less than 13,2011,Number,1716000
+State,California,less than 18,2011,Number,2372000
+State,California,less than 6,2010,Number,737000
+State,California,less than 13,2010,Number,1662000
+State,California,less than 18,2010,Number,2297000
+State,California,less than 13,2009,Number,1659000
+State,California,less than 18,2009,Number,2262000
+State,California,less than 6,2009,Number,778000
+State,California,less than 6,2018,Number,661000
+State,California,less than 13,2018,Number,1551000
+State,California,less than 18,2018,Number,2118000
+State,California,less than 6,2013,Number,784000
+State,California,less than 13,2013,Number,1757000
+State,California,less than 18,2013,Number,2406000
+State,California,less than 6,2008,Number,769000
+State,California,less than 13,2008,Number,1637000
+State,California,less than 18,2008,Number,2230000
+State,Colorado,less than 6,2008,Number,107000
+State,Colorado,less than 13,2008,Number,205000
+State,Colorado,less than 18,2008,Number,265000
+State,Colorado,less than 6,2013,Number,104000
+State,Colorado,less than 13,2013,Number,218000
+State,Colorado,less than 18,2013,Number,289000
+State,Colorado,less than 6,2018,Number,86000
+State,Colorado,less than 13,2018,Number,196000
+State,Colorado,less than 18,2018,Number,262000
+State,Colorado,less than 13,2009,Number,202000
+State,Colorado,less than 18,2009,Number,258000
+State,Colorado,less than 6,2009,Number,101000
+State,Colorado,less than 6,2010,Number,94000
+State,Colorado,less than 13,2010,Number,210000
+State,Colorado,less than 18,2010,Number,268000
+State,Colorado,less than 6,2015,Number,89000
+State,Colorado,less than 13,2015,Number,202000
+State,Colorado,less than 18,2015,Number,267000
+State,Colorado,less than 6,2011,Number,99000
+State,Colorado,less than 13,2011,Number,206000
+State,Colorado,less than 18,2011,Number,266000
+State,Colorado,less than 6,2012,Number,100000
+State,Colorado,less than 13,2012,Number,221000
+State,Colorado,less than 18,2012,Number,284000
+State,Colorado,less than 13,2014,Number,221000
+State,Colorado,less than 18,2014,Number,291000
+State,Colorado,less than 6,2014,Number,101000
+State,Colorado,less than 6,2016,Number,87000
+State,Colorado,less than 13,2016,Number,206000
+State,Colorado,less than 18,2016,Number,270000
+State,Colorado,less than 13,2017,Number,196000
+State,Colorado,less than 18,2017,Number,258000
+State,Colorado,less than 6,2017,Number,86000
+State,Colorado,less than 6,2021,Number,69000
+State,Colorado,less than 13,2021,Number,153000
+State,Colorado,less than 18,2021,Number,207000
+State,Colorado,less than 6,2019,Number,81000
+State,Colorado,less than 13,2019,Number,186000
+State,Colorado,less than 18,2019,Number,249000
+State,Connecticut,less than 6,2019,Number,38000
+State,Connecticut,less than 13,2019,Number,90000
+State,Connecticut,less than 18,2019,Number,122000
+State,Connecticut,less than 6,2021,Number,34000
+State,Connecticut,less than 13,2021,Number,76000
+State,Connecticut,less than 18,2021,Number,107000
+State,Connecticut,less than 13,2017,Number,89000
+State,Connecticut,less than 18,2017,Number,127000
+State,Connecticut,less than 6,2017,Number,36000
+State,Connecticut,less than 18,2016,Number,131000
+State,Connecticut,less than 6,2016,Number,44000
+State,Connecticut,less than 13,2016,Number,100000
+State,Connecticut,less than 6,2012,Number,39000
+State,Connecticut,less than 13,2012,Number,90000
+State,Connecticut,less than 18,2012,Number,121000
+State,Connecticut,less than 13,2014,Number,96000
+State,Connecticut,less than 18,2014,Number,131000
+State,Connecticut,less than 6,2014,Number,42000
+State,Connecticut,less than 6,2011,Number,41000
+State,Connecticut,less than 13,2011,Number,94000
+State,Connecticut,less than 18,2011,Number,126000
+State,Connecticut,less than 6,2015,Number,38000
+State,Connecticut,less than 13,2015,Number,88000
+State,Connecticut,less than 18,2015,Number,118000
+State,Connecticut,less than 6,2010,Number,37000
+State,Connecticut,less than 13,2010,Number,79000
+State,Connecticut,less than 18,2010,Number,112000
+State,Connecticut,less than 13,2009,Number,81000
+State,Connecticut,less than 18,2009,Number,113000
+State,Connecticut,less than 6,2009,Number,38000
+State,Connecticut,less than 6,2018,Number,40000
+State,Connecticut,less than 13,2018,Number,99000
+State,Connecticut,less than 18,2018,Number,133000
+State,Connecticut,less than 6,2013,Number,40000
+State,Connecticut,less than 13,2013,Number,92000
+State,Connecticut,less than 18,2013,Number,124000
+State,Connecticut,less than 6,2008,Number,36000
+State,Connecticut,less than 13,2008,Number,79000
+State,Connecticut,less than 18,2008,Number,108000
+State,Delaware,less than 6,2008,Number,14000
+State,Delaware,less than 13,2008,Number,29000
+State,Delaware,less than 18,2008,Number,40000
+State,Delaware,less than 6,2013,Number,16000
+State,Delaware,less than 13,2013,Number,32000
+State,Delaware,less than 18,2013,Number,44000
+State,Delaware,less than 6,2018,Number,14000
+State,Delaware,less than 13,2018,Number,35000
+State,Delaware,less than 18,2018,Number,45000
+State,Delaware,less than 13,2009,Number,32000
+State,Delaware,less than 18,2009,Number,41000
+State,Delaware,less than 6,2009,Number,15000
+State,Delaware,less than 6,2010,Number,14000
+State,Delaware,less than 13,2010,Number,30000
+State,Delaware,less than 18,2010,Number,40000
+State,Delaware,less than 6,2015,Number,18000
+State,Delaware,less than 13,2015,Number,40000
+State,Delaware,less than 18,2015,Number,50000
+State,Delaware,less than 6,2011,Number,17000
+State,Delaware,less than 13,2011,Number,35000
+State,Delaware,less than 18,2011,Number,46000
+State,Delaware,less than 13,2014,Number,32000
+State,Delaware,less than 18,2014,Number,43000
+State,Delaware,less than 6,2014,Number,14000
+State,Delaware,less than 6,2012,Number,18000
+State,Delaware,less than 13,2012,Number,37000
+State,Delaware,less than 18,2012,Number,48000
+State,Delaware,less than 6,2016,Number,18000
+State,Delaware,less than 13,2016,Number,39000
+State,Delaware,less than 18,2016,Number,47000
+State,Delaware,less than 13,2017,Number,37000
+State,Delaware,less than 18,2017,Number,49000
+State,Delaware,less than 6,2017,Number,17000
+State,Delaware,less than 6,2021,Number,13000
+State,Delaware,less than 13,2021,Number,28000
+State,Delaware,less than 18,2021,Number,37000
+State,Delaware,less than 6,2019,Number,15000
+State,Delaware,less than 13,2019,Number,33000
+State,Delaware,less than 18,2019,Number,44000
+City,District of Columbia,less than 6,2019,Number,6000
+City,District of Columbia,less than 13,2019,Number,12000
+City,District of Columbia,less than 18,2019,Number,17000
+City,District of Columbia,less than 6,2021,Number,4000
+City,District of Columbia,less than 13,2021,Number,7000
+City,District of Columbia,less than 18,2021,Number,10000
+City,District of Columbia,less than 13,2017,Number,14000
+City,District of Columbia,less than 18,2017,Number,18000
+City,District of Columbia,less than 6,2017,Number,6000
+City,District of Columbia,less than 18,2016,Number,22000
+City,District of Columbia,less than 6,2016,Number,8000
+City,District of Columbia,less than 13,2016,Number,16000
+City,District of Columbia,less than 13,2014,Number,17000
+City,District of Columbia,less than 18,2014,Number,22000
+City,District of Columbia,less than 6,2014,Number,9000
+City,District of Columbia,less than 6,2012,Number,10000
+City,District of Columbia,less than 13,2012,Number,17000
+City,District of Columbia,less than 18,2012,Number,22000
+City,District of Columbia,less than 6,2011,Number,5000
+City,District of Columbia,less than 13,2011,Number,9000
+City,District of Columbia,less than 18,2011,Number,13000
+City,District of Columbia,less than 6,2015,Number,5000
+City,District of Columbia,less than 13,2015,Number,12000
+City,District of Columbia,less than 18,2015,Number,18000
+City,District of Columbia,less than 6,2010,Number,5000
+City,District of Columbia,less than 13,2010,Number,13000
+City,District of Columbia,less than 18,2010,Number,18000
+City,District of Columbia,less than 13,2009,Number,14000
+City,District of Columbia,less than 18,2009,Number,21000
+City,District of Columbia,less than 6,2009,Number,S
+City,District of Columbia,less than 6,2018,Number,7000
+City,District of Columbia,less than 13,2018,Number,14000
+City,District of Columbia,less than 18,2018,Number,17000
+City,District of Columbia,less than 6,2013,Number,9000
+City,District of Columbia,less than 13,2013,Number,14000
+City,District of Columbia,less than 18,2013,Number,19000
+City,District of Columbia,less than 6,2008,Number,6000
+City,District of Columbia,less than 13,2008,Number,13000
+City,District of Columbia,less than 18,2008,Number,18000
+State,Florida,less than 6,2008,Number,358000
+State,Florida,less than 13,2008,Number,749000
+State,Florida,less than 18,2008,Number,994000
+State,Florida,less than 6,2013,Number,394000
+State,Florida,less than 13,2013,Number,854000
+State,Florida,less than 18,2013,Number,1161000
+State,Florida,less than 6,2018,Number,400000
+State,Florida,less than 13,2018,Number,895000
+State,Florida,less than 18,2018,Number,1191000
+State,Florida,less than 13,2009,Number,795000
+State,Florida,less than 18,2009,Number,1064000
+State,Florida,less than 6,2009,Number,375000
+State,Florida,less than 6,2010,Number,337000
+State,Florida,less than 13,2010,Number,754000
+State,Florida,less than 18,2010,Number,1032000
+State,Florida,less than 6,2015,Number,409000
+State,Florida,less than 13,2015,Number,904000
+State,Florida,less than 18,2015,Number,1224000
+State,Florida,less than 6,2011,Number,357000
+State,Florida,less than 13,2011,Number,797000
+State,Florida,less than 18,2011,Number,1092000
+State,Florida,less than 6,2012,Number,395000
+State,Florida,less than 13,2012,Number,849000
+State,Florida,less than 18,2012,Number,1146000
+State,Florida,less than 13,2014,Number,900000
+State,Florida,less than 18,2014,Number,1212000
+State,Florida,less than 6,2014,Number,405000
+State,Florida,less than 6,2016,Number,420000
+State,Florida,less than 13,2016,Number,897000
+State,Florida,less than 18,2016,Number,1190000
+State,Florida,less than 13,2017,Number,892000
+State,Florida,less than 18,2017,Number,1194000
+State,Florida,less than 6,2017,Number,402000
+State,Florida,less than 6,2019,Number,373000
+State,Florida,less than 13,2019,Number,872000
+State,Florida,less than 18,2019,Number,1189000
+State,Florida,less than 6,2021,Number,331000
+State,Florida,less than 13,2021,Number,739000
+State,Florida,less than 18,2021,Number,1024000
+State,Georgia,less than 6,2019,Number,231000
+State,Georgia,less than 13,2019,Number,522000
+State,Georgia,less than 18,2019,Number,692000
+State,Georgia,less than 6,2021,Number,191000
+State,Georgia,less than 13,2021,Number,429000
+State,Georgia,less than 18,2021,Number,580000
+State,Georgia,less than 13,2017,Number,523000
+State,Georgia,less than 18,2017,Number,697000
+State,Georgia,less than 6,2017,Number,227000
+State,Georgia,less than 18,2016,Number,701000
+State,Georgia,less than 6,2016,Number,231000
+State,Georgia,less than 13,2016,Number,530000
+State,Georgia,less than 13,2014,Number,549000
+State,Georgia,less than 18,2014,Number,723000
+State,Georgia,less than 6,2014,Number,244000
+State,Georgia,less than 6,2012,Number,236000
+State,Georgia,less than 13,2012,Number,526000
+State,Georgia,less than 18,2012,Number,697000
+State,Georgia,less than 6,2011,Number,225000
+State,Georgia,less than 13,2011,Number,493000
+State,Georgia,less than 18,2011,Number,657000
+State,Georgia,less than 6,2015,Number,247000
+State,Georgia,less than 13,2015,Number,551000
+State,Georgia,less than 18,2015,Number,727000
+State,Georgia,less than 6,2010,Number,235000
+State,Georgia,less than 13,2010,Number,513000
+State,Georgia,less than 18,2010,Number,668000
+State,Georgia,less than 13,2009,Number,479000
+State,Georgia,less than 18,2009,Number,637000
+State,Georgia,less than 6,2009,Number,227000
+State,Georgia,less than 6,2018,Number,226000
+State,Georgia,less than 13,2018,Number,517000
+State,Georgia,less than 18,2018,Number,692000
+State,Georgia,less than 6,2013,Number,237000
+State,Georgia,less than 13,2013,Number,527000
+State,Georgia,less than 18,2013,Number,698000
+State,Georgia,less than 6,2008,Number,243000
+State,Georgia,less than 13,2008,Number,493000
+State,Georgia,less than 18,2008,Number,640000
+State,Hawaii,less than 6,2008,Number,18000
+State,Hawaii,less than 13,2008,Number,34000
+State,Hawaii,less than 18,2008,Number,45000
+State,Hawaii,less than 6,2013,Number,22000
+State,Hawaii,less than 13,2013,Number,47000
+State,Hawaii,less than 18,2013,Number,60000
+State,Hawaii,less than 6,2018,Number,19000
+State,Hawaii,less than 13,2018,Number,41000
+State,Hawaii,less than 18,2018,Number,51000
+State,Hawaii,less than 13,2009,Number,41000
+State,Hawaii,less than 18,2009,Number,53000
+State,Hawaii,less than 6,2009,Number,19000
+State,Hawaii,less than 6,2010,Number,22000
+State,Hawaii,less than 13,2010,Number,43000
+State,Hawaii,less than 18,2010,Number,55000
+State,Hawaii,less than 6,2015,Number,19000
+State,Hawaii,less than 13,2015,Number,41000
+State,Hawaii,less than 18,2015,Number,53000
+State,Hawaii,less than 6,2011,Number,21000
+State,Hawaii,less than 13,2011,Number,45000
+State,Hawaii,less than 18,2011,Number,60000
+State,Hawaii,less than 6,2012,Number,22000
+State,Hawaii,less than 13,2012,Number,48000
+State,Hawaii,less than 18,2012,Number,63000
+State,Hawaii,less than 13,2014,Number,44000
+State,Hawaii,less than 18,2014,Number,57000
+State,Hawaii,less than 6,2014,Number,19000
+State,Hawaii,less than 6,2016,Number,21000
+State,Hawaii,less than 13,2016,Number,44000
+State,Hawaii,less than 18,2016,Number,55000
+State,Hawaii,less than 13,2017,Number,42000
+State,Hawaii,less than 18,2017,Number,52000
+State,Hawaii,less than 6,2017,Number,21000
+State,Hawaii,less than 6,2021,Number,15000
+State,Hawaii,less than 13,2021,Number,34000
+State,Hawaii,less than 18,2021,Number,45000
+State,Hawaii,less than 6,2019,Number,18000
+State,Hawaii,less than 13,2019,Number,38000
+State,Hawaii,less than 18,2019,Number,51000
+State,Idaho,less than 6,2019,Number,55000
+State,Idaho,less than 13,2019,Number,109000
+State,Idaho,less than 18,2019,Number,138000
+State,Idaho,less than 6,2021,Number,40000
+State,Idaho,less than 13,2021,Number,93000
+State,Idaho,less than 18,2021,Number,126000
+State,Idaho,less than 13,2017,Number,99000
+State,Idaho,less than 18,2017,Number,128000
+State,Idaho,less than 6,2017,Number,45000
+State,Idaho,less than 18,2016,Number,132000
+State,Idaho,less than 6,2016,Number,45000
+State,Idaho,less than 13,2016,Number,101000
+State,Idaho,less than 13,2014,Number,112000
+State,Idaho,less than 18,2014,Number,146000
+State,Idaho,less than 6,2014,Number,51000
+State,Idaho,less than 6,2012,Number,50000
+State,Idaho,less than 13,2012,Number,108000
+State,Idaho,less than 18,2012,Number,138000
+State,Idaho,less than 6,2011,Number,47000
+State,Idaho,less than 13,2011,Number,98000
+State,Idaho,less than 18,2011,Number,127000
+State,Idaho,less than 6,2015,Number,49000
+State,Idaho,less than 13,2015,Number,110000
+State,Idaho,less than 18,2015,Number,137000
+State,Idaho,less than 6,2010,Number,51000
+State,Idaho,less than 13,2010,Number,102000
+State,Idaho,less than 18,2010,Number,130000
+State,Idaho,less than 13,2009,Number,95000
+State,Idaho,less than 18,2009,Number,120000
+State,Idaho,less than 6,2009,Number,48000
+State,Idaho,less than 6,2018,Number,51000
+State,Idaho,less than 13,2018,Number,109000
+State,Idaho,less than 18,2018,Number,137000
+State,Idaho,less than 6,2013,Number,55000
+State,Idaho,less than 13,2013,Number,115000
+State,Idaho,less than 18,2013,Number,145000
+State,Idaho,less than 6,2008,Number,50000
+State,Idaho,less than 13,2008,Number,101000
+State,Idaho,less than 18,2008,Number,124000
+State,Illinois,less than 6,2008,Number,236000
+State,Illinois,less than 13,2008,Number,503000
+State,Illinois,less than 18,2008,Number,667000
+State,Illinois,less than 6,2013,Number,227000
+State,Illinois,less than 13,2013,Number,528000
+State,Illinois,less than 18,2013,Number,714000
+State,Illinois,less than 6,2018,Number,208000
+State,Illinois,less than 13,2018,Number,464000
+State,Illinois,less than 18,2018,Number,633000
+State,Illinois,less than 13,2009,Number,506000
+State,Illinois,less than 18,2009,Number,679000
+State,Illinois,less than 6,2009,Number,237000
+State,Illinois,less than 6,2010,Number,218000
+State,Illinois,less than 13,2010,Number,509000
+State,Illinois,less than 18,2010,Number,697000
+State,Illinois,less than 6,2015,Number,226000
+State,Illinois,less than 13,2015,Number,520000
+State,Illinois,less than 18,2015,Number,698000
+State,Illinois,less than 6,2011,Number,241000
+State,Illinois,less than 13,2011,Number,536000
+State,Illinois,less than 18,2011,Number,724000
+State,Illinois,less than 6,2012,Number,240000
+State,Illinois,less than 13,2012,Number,549000
+State,Illinois,less than 18,2012,Number,738000
+State,Illinois,less than 13,2014,Number,525000
+State,Illinois,less than 18,2014,Number,716000
+State,Illinois,less than 6,2014,Number,227000
+State,Illinois,less than 6,2016,Number,217000
+State,Illinois,less than 13,2016,Number,511000
+State,Illinois,less than 18,2016,Number,688000
+State,Illinois,less than 13,2017,Number,474000
+State,Illinois,less than 18,2017,Number,645000
+State,Illinois,less than 6,2017,Number,202000
+State,Illinois,less than 6,2021,Number,165000
+State,Illinois,less than 13,2021,Number,388000
+State,Illinois,less than 18,2021,Number,533000
+State,Illinois,less than 6,2019,Number,218000
+State,Illinois,less than 13,2019,Number,485000
+State,Illinois,less than 18,2019,Number,655000
+State,Indiana,less than 6,2019,Number,126000
+State,Indiana,less than 13,2019,Number,286000
+State,Indiana,less than 18,2019,Number,376000
+State,Indiana,less than 6,2021,Number,117000
+State,Indiana,less than 13,2021,Number,257000
+State,Indiana,less than 18,2021,Number,349000
+State,Indiana,less than 13,2017,Number,297000
+State,Indiana,less than 18,2017,Number,388000
+State,Indiana,less than 6,2017,Number,133000
+State,Indiana,less than 18,2016,Number,412000
+State,Indiana,less than 6,2016,Number,143000
+State,Indiana,less than 13,2016,Number,315000
+State,Indiana,less than 13,2014,Number,325000
+State,Indiana,less than 18,2014,Number,426000
+State,Indiana,less than 6,2014,Number,151000
+State,Indiana,less than 6,2012,Number,148000
+State,Indiana,less than 13,2012,Number,320000
+State,Indiana,less than 18,2012,Number,422000
+State,Indiana,less than 6,2011,Number,133000
+State,Indiana,less than 13,2011,Number,285000
+State,Indiana,less than 18,2011,Number,376000
+State,Indiana,less than 6,2015,Number,138000
+State,Indiana,less than 13,2015,Number,307000
+State,Indiana,less than 18,2015,Number,414000
+State,Indiana,less than 6,2010,Number,142000
+State,Indiana,less than 13,2010,Number,307000
+State,Indiana,less than 18,2010,Number,402000
+State,Indiana,less than 13,2009,Number,284000
+State,Indiana,less than 18,2009,Number,370000
+State,Indiana,less than 6,2009,Number,138000
+State,Indiana,less than 6,2018,Number,136000
+State,Indiana,less than 13,2018,Number,300000
+State,Indiana,less than 18,2018,Number,394000
+State,Indiana,less than 6,2013,Number,152000
+State,Indiana,less than 13,2013,Number,331000
+State,Indiana,less than 18,2013,Number,431000
+State,Indiana,less than 6,2008,Number,137000
+State,Indiana,less than 13,2008,Number,279000
+State,Indiana,less than 18,2008,Number,360000
+State,Iowa,less than 6,2008,Number,53000
+State,Iowa,less than 13,2008,Number,115000
+State,Iowa,less than 18,2008,Number,153000
+State,Iowa,less than 6,2013,Number,64000
+State,Iowa,less than 13,2013,Number,137000
+State,Iowa,less than 18,2013,Number,173000
+State,Iowa,less than 6,2018,Number,56000
+State,Iowa,less than 13,2018,Number,122000
+State,Iowa,less than 18,2018,Number,163000
+State,Iowa,less than 13,2009,Number,130000
+State,Iowa,less than 18,2009,Number,173000
+State,Iowa,less than 6,2009,Number,60000
+State,Iowa,less than 6,2010,Number,60000
+State,Iowa,less than 13,2010,Number,131000
+State,Iowa,less than 18,2010,Number,169000
+State,Iowa,less than 6,2015,Number,60000
+State,Iowa,less than 13,2015,Number,134000
+State,Iowa,less than 18,2015,Number,175000
+State,Iowa,less than 6,2011,Number,64000
+State,Iowa,less than 13,2011,Number,135000
+State,Iowa,less than 18,2011,Number,177000
+State,Iowa,less than 6,2012,Number,58000
+State,Iowa,less than 13,2012,Number,129000
+State,Iowa,less than 18,2012,Number,167000
+State,Iowa,less than 13,2014,Number,131000
+State,Iowa,less than 18,2014,Number,175000
+State,Iowa,less than 6,2014,Number,58000
+State,Iowa,less than 6,2016,Number,56000
+State,Iowa,less than 13,2016,Number,121000
+State,Iowa,less than 18,2016,Number,155000
+State,Iowa,less than 13,2017,Number,132000
+State,Iowa,less than 18,2017,Number,168000
+State,Iowa,less than 6,2017,Number,62000
+State,Iowa,less than 6,2021,Number,51000
+State,Iowa,less than 13,2021,Number,110000
+State,Iowa,less than 18,2021,Number,149000
+State,Iowa,less than 6,2019,Number,58000
+State,Iowa,less than 13,2019,Number,127000
+State,Iowa,less than 18,2019,Number,168000
+State,Kansas,less than 6,2019,Number,56000
+State,Kansas,less than 13,2019,Number,126000
+State,Kansas,less than 18,2019,Number,168000
+State,Kansas,less than 6,2021,Number,52000
+State,Kansas,less than 13,2021,Number,119000
+State,Kansas,less than 18,2021,Number,154000
+State,Kansas,less than 13,2017,Number,150000
+State,Kansas,less than 18,2017,Number,189000
+State,Kansas,less than 6,2017,Number,70000
+State,Kansas,less than 18,2016,Number,193000
+State,Kansas,less than 6,2016,Number,70000
+State,Kansas,less than 13,2016,Number,153000
+State,Kansas,less than 13,2014,Number,147000
+State,Kansas,less than 18,2014,Number,187000
+State,Kansas,less than 6,2014,Number,72000
+State,Kansas,less than 6,2012,Number,79000
+State,Kansas,less than 13,2012,Number,161000
+State,Kansas,less than 18,2012,Number,207000
+State,Kansas,less than 6,2011,Number,72000
+State,Kansas,less than 13,2011,Number,151000
+State,Kansas,less than 18,2011,Number,194000
+State,Kansas,less than 6,2015,Number,63000
+State,Kansas,less than 13,2015,Number,142000
+State,Kansas,less than 18,2015,Number,189000
+State,Kansas,less than 6,2010,Number,71000
+State,Kansas,less than 13,2010,Number,148000
+State,Kansas,less than 18,2010,Number,188000
+State,Kansas,less than 13,2009,Number,143000
+State,Kansas,less than 18,2009,Number,182000
+State,Kansas,less than 6,2009,Number,69000
+State,Kansas,less than 6,2018,Number,63000
+State,Kansas,less than 13,2018,Number,134000
+State,Kansas,less than 18,2018,Number,175000
+State,Kansas,less than 6,2013,Number,69000
+State,Kansas,less than 13,2013,Number,145000
+State,Kansas,less than 18,2013,Number,188000
+State,Kansas,less than 6,2008,Number,61000
+State,Kansas,less than 13,2008,Number,137000
+State,Kansas,less than 18,2008,Number,175000
+State,Kentucky,less than 6,2008,Number,85000
+State,Kentucky,less than 13,2008,Number,175000
+State,Kentucky,less than 18,2008,Number,226000
+State,Kentucky,less than 6,2013,Number,91000
+State,Kentucky,less than 13,2013,Number,192000
+State,Kentucky,less than 18,2013,Number,250000
+State,Kentucky,less than 6,2018,Number,90000
+State,Kentucky,less than 13,2018,Number,192000
+State,Kentucky,less than 18,2018,Number,244000
+State,Kentucky,less than 13,2009,Number,172000
+State,Kentucky,less than 18,2009,Number,226000
+State,Kentucky,less than 6,2009,Number,80000
+State,Kentucky,less than 6,2010,Number,83000
+State,Kentucky,less than 13,2010,Number,184000
+State,Kentucky,less than 18,2010,Number,241000
+State,Kentucky,less than 6,2015,Number,87000
+State,Kentucky,less than 13,2015,Number,184000
+State,Kentucky,less than 18,2015,Number,246000
+State,Kentucky,less than 6,2011,Number,88000
+State,Kentucky,less than 13,2011,Number,184000
+State,Kentucky,less than 18,2011,Number,243000
+State,Kentucky,less than 6,2012,Number,84000
+State,Kentucky,less than 13,2012,Number,185000
+State,Kentucky,less than 18,2012,Number,243000
+State,Kentucky,less than 13,2014,Number,195000
+State,Kentucky,less than 18,2014,Number,253000
+State,Kentucky,less than 6,2014,Number,91000
+State,Kentucky,less than 6,2016,Number,94000
+State,Kentucky,less than 13,2016,Number,200000
+State,Kentucky,less than 18,2016,Number,262000
+State,Kentucky,less than 13,2017,Number,187000
+State,Kentucky,less than 18,2017,Number,239000
+State,Kentucky,less than 6,2017,Number,85000
+State,Kentucky,less than 6,2021,Number,80000
+State,Kentucky,less than 13,2021,Number,174000
+State,Kentucky,less than 18,2021,Number,232000
+State,Kentucky,less than 6,2019,Number,86000
+State,Kentucky,less than 13,2019,Number,182000
+State,Kentucky,less than 18,2019,Number,241000
+State,Louisiana,less than 6,2019,Number,93000
+State,Louisiana,less than 13,2019,Number,207000
+State,Louisiana,less than 18,2019,Number,281000
+State,Louisiana,less than 6,2021,Number,83000
+State,Louisiana,less than 13,2021,Number,195000
+State,Louisiana,less than 18,2021,Number,269000
+State,Louisiana,less than 13,2017,Number,222000
+State,Louisiana,less than 18,2017,Number,297000
+State,Louisiana,less than 6,2017,Number,93000
+State,Louisiana,less than 18,2016,Number,293000
+State,Louisiana,less than 6,2016,Number,100000
+State,Louisiana,less than 13,2016,Number,221000
+State,Louisiana,less than 13,2014,Number,234000
+State,Louisiana,less than 18,2014,Number,311000
+State,Louisiana,less than 6,2014,Number,104000
+State,Louisiana,less than 6,2012,Number,108000
+State,Louisiana,less than 13,2012,Number,231000
+State,Louisiana,less than 18,2012,Number,308000
+State,Louisiana,less than 6,2011,Number,100000
+State,Louisiana,less than 13,2011,Number,221000
+State,Louisiana,less than 18,2011,Number,292000
+State,Louisiana,less than 6,2015,Number,105000
+State,Louisiana,less than 13,2015,Number,228000
+State,Louisiana,less than 18,2015,Number,302000
+State,Louisiana,less than 6,2010,Number,96000
+State,Louisiana,less than 13,2010,Number,205000
+State,Louisiana,less than 18,2010,Number,274000
+State,Louisiana,less than 13,2009,Number,198000
+State,Louisiana,less than 18,2009,Number,267000
+State,Louisiana,less than 6,2009,Number,88000
+State,Louisiana,less than 6,2018,Number,99000
+State,Louisiana,less than 13,2018,Number,222000
+State,Louisiana,less than 18,2018,Number,306000
+State,Louisiana,less than 6,2013,Number,104000
+State,Louisiana,less than 13,2013,Number,224000
+State,Louisiana,less than 18,2013,Number,300000
+State,Louisiana,less than 6,2008,Number,99000
+State,Louisiana,less than 13,2008,Number,212000
+State,Louisiana,less than 18,2008,Number,283000
+State,Maine,less than 6,2008,Number,19000
+State,Maine,less than 13,2008,Number,42000
+State,Maine,less than 18,2008,Number,58000
+State,Maine,less than 6,2013,Number,18000
+State,Maine,less than 13,2013,Number,43000
+State,Maine,less than 18,2013,Number,60000
+State,Maine,less than 6,2018,Number,17000
+State,Maine,less than 13,2018,Number,36000
+State,Maine,less than 18,2018,Number,51000
+State,Maine,less than 13,2009,Number,43000
+State,Maine,less than 18,2009,Number,57000
+State,Maine,less than 6,2009,Number,22000
+State,Maine,less than 6,2010,Number,21000
+State,Maine,less than 13,2010,Number,44000
+State,Maine,less than 18,2010,Number,60000
+State,Maine,less than 6,2015,Number,17000
+State,Maine,less than 13,2015,Number,42000
+State,Maine,less than 18,2015,Number,56000
+State,Maine,less than 6,2011,Number,20000
+State,Maine,less than 13,2011,Number,45000
+State,Maine,less than 18,2011,Number,61000
+State,Maine,less than 6,2012,Number,22000
+State,Maine,less than 13,2012,Number,50000
+State,Maine,less than 18,2012,Number,64000
+State,Maine,less than 13,2014,Number,40000
+State,Maine,less than 18,2014,Number,54000
+State,Maine,less than 6,2014,Number,16000
+State,Maine,less than 6,2016,Number,18000
+State,Maine,less than 13,2016,Number,40000
+State,Maine,less than 18,2016,Number,52000
+State,Maine,less than 13,2017,Number,36000
+State,Maine,less than 18,2017,Number,47000
+State,Maine,less than 6,2017,Number,15000
+State,Maine,less than 6,2021,Number,14000
+State,Maine,less than 13,2021,Number,31000
+State,Maine,less than 18,2021,Number,41000
+State,Maine,less than 6,2019,Number,17000
+State,Maine,less than 13,2019,Number,38000
+State,Maine,less than 18,2019,Number,50000
+State,Maryland,less than 6,2019,Number,82000
+State,Maryland,less than 13,2019,Number,172000
+State,Maryland,less than 18,2019,Number,228000
+State,Maryland,less than 6,2021,Number,64000
+State,Maryland,less than 13,2021,Number,147000
+State,Maryland,less than 18,2021,Number,200000
+State,Maryland,less than 13,2017,Number,180000
+State,Maryland,less than 18,2017,Number,230000
+State,Maryland,less than 6,2017,Number,77000
+State,Maryland,less than 18,2016,Number,222000
+State,Maryland,less than 6,2016,Number,76000
+State,Maryland,less than 13,2016,Number,169000
+State,Maryland,less than 13,2014,Number,188000
+State,Maryland,less than 18,2014,Number,246000
+State,Maryland,less than 6,2014,Number,89000
+State,Maryland,less than 6,2012,Number,80000
+State,Maryland,less than 13,2012,Number,164000
+State,Maryland,less than 18,2012,Number,212000
+State,Maryland,less than 6,2011,Number,77000
+State,Maryland,less than 13,2011,Number,160000
+State,Maryland,less than 18,2011,Number,210000
+State,Maryland,less than 6,2015,Number,78000
+State,Maryland,less than 13,2015,Number,181000
+State,Maryland,less than 18,2015,Number,235000
+State,Maryland,less than 6,2010,Number,72000
+State,Maryland,less than 13,2010,Number,156000
+State,Maryland,less than 18,2010,Number,205000
+State,Maryland,less than 13,2009,Number,150000
+State,Maryland,less than 18,2009,Number,201000
+State,Maryland,less than 6,2009,Number,76000
+State,Maryland,less than 6,2018,Number,79000
+State,Maryland,less than 13,2018,Number,178000
+State,Maryland,less than 18,2018,Number,226000
+State,Maryland,less than 6,2013,Number,79000
+State,Maryland,less than 13,2013,Number,174000
+State,Maryland,less than 18,2013,Number,230000
+State,Maryland,less than 6,2008,Number,72000
+State,Maryland,less than 13,2008,Number,152000
+State,Maryland,less than 18,2008,Number,203000
+State,Massachusetts,less than 6,2008,Number,59000
+State,Massachusetts,less than 13,2008,Number,135000
+State,Massachusetts,less than 18,2008,Number,185000
+State,Massachusetts,less than 6,2013,Number,68000
+State,Massachusetts,less than 13,2013,Number,145000
+State,Massachusetts,less than 18,2013,Number,198000
+State,Massachusetts,less than 6,2018,Number,62000
+State,Massachusetts,less than 13,2018,Number,145000
+State,Massachusetts,less than 18,2018,Number,198000
+State,Massachusetts,less than 13,2009,Number,134000
+State,Massachusetts,less than 18,2009,Number,186000
+State,Massachusetts,less than 6,2009,Number,64000
+State,Massachusetts,less than 6,2010,Number,64000
+State,Massachusetts,less than 13,2010,Number,145000
+State,Massachusetts,less than 18,2010,Number,193000
+State,Massachusetts,less than 6,2015,Number,69000
+State,Massachusetts,less than 13,2015,Number,160000
+State,Massachusetts,less than 18,2015,Number,217000
+State,Massachusetts,less than 6,2011,Number,65000
+State,Massachusetts,less than 13,2011,Number,145000
+State,Massachusetts,less than 18,2011,Number,200000
+State,Massachusetts,less than 6,2012,Number,69000
+State,Massachusetts,less than 13,2012,Number,153000
+State,Massachusetts,less than 18,2012,Number,209000
+State,Massachusetts,less than 13,2014,Number,166000
+State,Massachusetts,less than 18,2014,Number,224000
+State,Massachusetts,less than 6,2014,Number,76000
+State,Massachusetts,less than 18,2016,Number,192000
+State,Massachusetts,less than 6,2016,Number,63000
+State,Massachusetts,less than 13,2016,Number,141000
+State,Massachusetts,less than 13,2017,Number,146000
+State,Massachusetts,less than 18,2017,Number,193000
+State,Massachusetts,less than 6,2017,Number,69000
+State,Massachusetts,less than 6,2021,Number,46000
+State,Massachusetts,less than 13,2021,Number,107000
+State,Massachusetts,less than 18,2021,Number,148000
+State,Massachusetts,less than 6,2019,Number,63000
+State,Massachusetts,less than 13,2019,Number,146000
+State,Massachusetts,less than 18,2019,Number,202000
+State,Michigan,less than 6,2019,Number,182000
+State,Michigan,less than 13,2019,Number,394000
+State,Michigan,less than 18,2019,Number,520000
+State,Michigan,less than 6,2021,Number,141000
+State,Michigan,less than 13,2021,Number,311000
+State,Michigan,less than 18,2021,Number,411000
+State,Michigan,less than 13,2017,Number,383000
+State,Michigan,less than 18,2017,Number,508000
+State,Michigan,less than 6,2017,Number,176000
+State,Michigan,less than 18,2016,Number,508000
+State,Michigan,less than 6,2016,Number,178000
+State,Michigan,less than 13,2016,Number,389000
+State,Michigan,less than 13,2014,Number,403000
+State,Michigan,less than 18,2014,Number,538000
+State,Michigan,less than 6,2014,Number,185000
+State,Michigan,less than 6,2012,Number,181000
+State,Michigan,less than 13,2012,Number,405000
+State,Michigan,less than 18,2012,Number,543000
+State,Michigan,less than 6,2011,Number,169000
+State,Michigan,less than 13,2011,Number,386000
+State,Michigan,less than 18,2011,Number,524000
+State,Michigan,less than 6,2015,Number,183000
+State,Michigan,less than 13,2015,Number,412000
+State,Michigan,less than 18,2015,Number,547000
+State,Michigan,less than 6,2010,Number,162000
+State,Michigan,less than 13,2010,Number,364000
+State,Michigan,less than 18,2010,Number,497000
+State,Michigan,less than 13,2009,Number,383000
+State,Michigan,less than 18,2009,Number,524000
+State,Michigan,less than 6,2009,Number,173000
+State,Michigan,less than 6,2018,Number,172000
+State,Michigan,less than 13,2018,Number,382000
+State,Michigan,less than 18,2018,Number,509000
+State,Michigan,less than 6,2013,Number,181000
+State,Michigan,less than 13,2013,Number,398000
+State,Michigan,less than 18,2013,Number,538000
+State,Michigan,less than 6,2008,Number,170000
+State,Michigan,less than 13,2008,Number,381000
+State,Michigan,less than 18,2008,Number,515000
+State,Minnesota,less than 6,2008,Number,80000
+State,Minnesota,less than 13,2008,Number,166000
+State,Minnesota,less than 18,2008,Number,220000
+State,Minnesota,less than 6,2013,Number,92000
+State,Minnesota,less than 13,2013,Number,204000
+State,Minnesota,less than 18,2013,Number,266000
+State,Minnesota,less than 6,2018,Number,89000
+State,Minnesota,less than 13,2018,Number,200000
+State,Minnesota,less than 18,2018,Number,255000
+State,Minnesota,less than 13,2009,Number,186000
+State,Minnesota,less than 18,2009,Number,243000
+State,Minnesota,less than 6,2009,Number,89000
+State,Minnesota,less than 6,2010,Number,93000
+State,Minnesota,less than 13,2010,Number,193000
+State,Minnesota,less than 18,2010,Number,250000
+State,Minnesota,less than 6,2015,Number,90000
+State,Minnesota,less than 13,2015,Number,200000
+State,Minnesota,less than 18,2015,Number,262000
+State,Minnesota,less than 6,2011,Number,92000
+State,Minnesota,less than 13,2011,Number,198000
+State,Minnesota,less than 18,2011,Number,258000
+State,Minnesota,less than 6,2012,Number,92000
+State,Minnesota,less than 13,2012,Number,195000
+State,Minnesota,less than 18,2012,Number,254000
+State,Minnesota,less than 13,2014,Number,207000
+State,Minnesota,less than 18,2014,Number,266000
+State,Minnesota,less than 6,2014,Number,94000
+State,Minnesota,less than 18,2016,Number,255000
+State,Minnesota,less than 6,2016,Number,87000
+State,Minnesota,less than 13,2016,Number,199000
+State,Minnesota,less than 13,2017,Number,188000
+State,Minnesota,less than 18,2017,Number,243000
+State,Minnesota,less than 6,2017,Number,87000
+State,Minnesota,less than 6,2019,Number,81000
+State,Minnesota,less than 13,2019,Number,179000
+State,Minnesota,less than 18,2019,Number,234000
+State,Minnesota,less than 6,2021,Number,70000
+State,Minnesota,less than 13,2021,Number,159000
+State,Minnesota,less than 18,2021,Number,210000
+State,Mississippi,less than 6,2019,Number,63000
+State,Mississippi,less than 13,2019,Number,150000
+State,Mississippi,less than 18,2019,Number,206000
+State,Mississippi,less than 6,2021,Number,52000
+State,Mississippi,less than 13,2021,Number,121000
+State,Mississippi,less than 18,2021,Number,171000
+State,Mississippi,less than 13,2017,Number,153000
+State,Mississippi,less than 18,2017,Number,206000
+State,Mississippi,less than 6,2017,Number,67000
+State,Mississippi,less than 18,2016,Number,210000
+State,Mississippi,less than 6,2016,Number,68000
+State,Mississippi,less than 13,2016,Number,160000
+State,Mississippi,less than 13,2014,Number,154000
+State,Mississippi,less than 18,2014,Number,210000
+State,Mississippi,less than 6,2014,Number,68000
+State,Mississippi,less than 6,2012,Number,74000
+State,Mississippi,less than 13,2012,Number,167000
+State,Mississippi,less than 18,2012,Number,224000
+State,Mississippi,less than 6,2011,Number,76000
+State,Mississippi,less than 13,2011,Number,169000
+State,Mississippi,less than 18,2011,Number,228000
+State,Mississippi,less than 6,2015,Number,65000
+State,Mississippi,less than 13,2015,Number,157000
+State,Mississippi,less than 18,2015,Number,213000
+State,Mississippi,less than 6,2010,Number,68000
+State,Mississippi,less than 13,2010,Number,159000
+State,Mississippi,less than 18,2010,Number,216000
+State,Mississippi,less than 13,2009,Number,153000
+State,Mississippi,less than 18,2009,Number,207000
+State,Mississippi,less than 6,2009,Number,69000
+State,Mississippi,less than 6,2018,Number,66000
+State,Mississippi,less than 13,2018,Number,153000
+State,Mississippi,less than 18,2018,Number,205000
+State,Mississippi,less than 6,2013,Number,72000
+State,Mississippi,less than 13,2013,Number,165000
+State,Mississippi,less than 18,2013,Number,220000
+State,Mississippi,less than 6,2008,Number,77000
+State,Mississippi,less than 13,2008,Number,161000
+State,Mississippi,less than 18,2008,Number,217000
+State,Missouri,less than 6,2008,Number,123000
+State,Missouri,less than 13,2008,Number,253000
+State,Missouri,less than 18,2008,Number,333000
+State,Missouri,less than 6,2013,Number,132000
+State,Missouri,less than 13,2013,Number,288000
+State,Missouri,less than 18,2013,Number,373000
+State,Missouri,less than 6,2018,Number,127000
+State,Missouri,less than 13,2018,Number,272000
+State,Missouri,less than 18,2018,Number,346000
+State,Missouri,less than 13,2009,Number,262000
+State,Missouri,less than 18,2009,Number,346000
+State,Missouri,less than 6,2009,Number,125000
+State,Missouri,less than 6,2010,Number,125000
+State,Missouri,less than 13,2010,Number,274000
+State,Missouri,less than 18,2010,Number,357000
+State,Missouri,less than 6,2015,Number,126000
+State,Missouri,less than 13,2015,Number,271000
+State,Missouri,less than 18,2015,Number,358000
+State,Missouri,less than 6,2011,Number,122000
+State,Missouri,less than 13,2011,Number,257000
+State,Missouri,less than 18,2011,Number,340000
+State,Missouri,less than 6,2012,Number,122000
+State,Missouri,less than 13,2012,Number,265000
+State,Missouri,less than 18,2012,Number,349000
+State,Missouri,less than 13,2014,Number,253000
+State,Missouri,less than 18,2014,Number,336000
+State,Missouri,less than 6,2014,Number,116000
+State,Missouri,less than 18,2016,Number,360000
+State,Missouri,less than 6,2016,Number,122000
+State,Missouri,less than 13,2016,Number,270000
+State,Missouri,less than 13,2017,Number,266000
+State,Missouri,less than 18,2017,Number,350000
+State,Missouri,less than 6,2017,Number,125000
+State,Missouri,less than 6,2019,Number,121000
+State,Missouri,less than 13,2019,Number,259000
+State,Missouri,less than 18,2019,Number,335000
+State,Missouri,less than 6,2021,Number,106000
+State,Missouri,less than 13,2021,Number,230000
+State,Missouri,less than 18,2021,Number,305000
+State,Montana,less than 6,2021,Number,16000
+State,Montana,less than 13,2021,Number,41000
+State,Montana,less than 18,2021,Number,52000
+State,Montana,less than 6,2019,Number,19000
+State,Montana,less than 13,2019,Number,38000
+State,Montana,less than 18,2019,Number,49000
+State,Montana,less than 13,2017,Number,45000
+State,Montana,less than 18,2017,Number,55000
+State,Montana,less than 6,2017,Number,22000
+State,Montana,less than 6,2016,Number,24000
+State,Montana,less than 13,2016,Number,48000
+State,Montana,less than 18,2016,Number,60000
+State,Montana,less than 13,2014,Number,48000
+State,Montana,less than 18,2014,Number,62000
+State,Montana,less than 6,2014,Number,21000
+State,Montana,less than 6,2012,Number,22000
+State,Montana,less than 13,2012,Number,47000
+State,Montana,less than 18,2012,Number,62000
+State,Montana,less than 6,2011,Number,25000
+State,Montana,less than 13,2011,Number,48000
+State,Montana,less than 18,2011,Number,62000
+State,Montana,less than 6,2015,Number,18000
+State,Montana,less than 13,2015,Number,40000
+State,Montana,less than 18,2015,Number,53000
+State,Montana,less than 6,2010,Number,20000
+State,Montana,less than 13,2010,Number,41000
+State,Montana,less than 18,2010,Number,55000
+State,Montana,less than 13,2009,Number,42000
+State,Montana,less than 18,2009,Number,56000
+State,Montana,less than 6,2009,Number,18000
+State,Montana,less than 6,2018,Number,23000
+State,Montana,less than 13,2018,Number,47000
+State,Montana,less than 18,2018,Number,61000
+State,Montana,less than 6,2013,Number,22000
+State,Montana,less than 13,2013,Number,44000
+State,Montana,less than 18,2013,Number,57000
+State,Montana,less than 6,2008,Number,19000
+State,Montana,less than 13,2008,Number,42000
+State,Montana,less than 18,2008,Number,55000
+State,Nebraska,less than 6,2008,Number,38000
+State,Nebraska,less than 13,2008,Number,80000
+State,Nebraska,less than 18,2008,Number,106000
+State,Nebraska,less than 6,2013,Number,49000
+State,Nebraska,less than 13,2013,Number,104000
+State,Nebraska,less than 18,2013,Number,134000
+State,Nebraska,less than 6,2018,Number,40000
+State,Nebraska,less than 13,2018,Number,88000
+State,Nebraska,less than 18,2018,Number,114000
+State,Nebraska,less than 13,2009,Number,88000
+State,Nebraska,less than 18,2009,Number,113000
+State,Nebraska,less than 6,2009,Number,45000
+State,Nebraska,less than 6,2010,Number,45000
+State,Nebraska,less than 13,2010,Number,90000
+State,Nebraska,less than 18,2010,Number,118000
+State,Nebraska,less than 6,2015,Number,45000
+State,Nebraska,less than 13,2015,Number,95000
+State,Nebraska,less than 18,2015,Number,120000
+State,Nebraska,less than 6,2011,Number,44000
+State,Nebraska,less than 13,2011,Number,92000
+State,Nebraska,less than 18,2011,Number,117000
+State,Nebraska,less than 6,2012,Number,46000
+State,Nebraska,less than 13,2012,Number,96000
+State,Nebraska,less than 18,2012,Number,124000
+State,Nebraska,less than 13,2014,Number,92000
+State,Nebraska,less than 18,2014,Number,120000
+State,Nebraska,less than 6,2014,Number,42000
+State,Nebraska,less than 6,2016,Number,43000
+State,Nebraska,less than 13,2016,Number,94000
+State,Nebraska,less than 18,2016,Number,120000
+State,Nebraska,less than 13,2017,Number,93000
+State,Nebraska,less than 18,2017,Number,120000
+State,Nebraska,less than 6,2017,Number,43000
+State,Nebraska,less than 6,2019,Number,40000
+State,Nebraska,less than 13,2019,Number,86000
+State,Nebraska,less than 18,2019,Number,113000
+State,Nebraska,less than 6,2021,Number,37000
+State,Nebraska,less than 13,2021,Number,80000
+State,Nebraska,less than 18,2021,Number,105000
+State,Nevada,less than 6,2021,Number,51000
+State,Nevada,less than 13,2021,Number,116000
+State,Nevada,less than 18,2021,Number,158000
+State,Nevada,less than 6,2019,Number,63000
+State,Nevada,less than 13,2019,Number,143000
+State,Nevada,less than 18,2019,Number,192000
+State,Nevada,less than 13,2017,Number,137000
+State,Nevada,less than 18,2017,Number,188000
+State,Nevada,less than 6,2017,Number,60000
+State,Nevada,less than 18,2016,Number,189000
+State,Nevada,less than 6,2016,Number,64000
+State,Nevada,less than 13,2016,Number,140000
+State,Nevada,less than 13,2014,Number,152000
+State,Nevada,less than 18,2014,Number,200000
+State,Nevada,less than 6,2014,Number,69000
+State,Nevada,less than 6,2012,Number,72000
+State,Nevada,less than 13,2012,Number,146000
+State,Nevada,less than 18,2012,Number,195000
+State,Nevada,less than 6,2015,Number,67000
+State,Nevada,less than 13,2015,Number,144000
+State,Nevada,less than 18,2015,Number,193000
+State,Nevada,less than 6,2011,Number,66000
+State,Nevada,less than 13,2011,Number,145000
+State,Nevada,less than 18,2011,Number,196000
+State,Nevada,less than 6,2010,Number,55000
+State,Nevada,less than 13,2010,Number,124000
+State,Nevada,less than 18,2010,Number,162000
+State,Nevada,less than 13,2009,Number,122000
+State,Nevada,less than 18,2009,Number,159000
+State,Nevada,less than 6,2009,Number,57000
+State,Nevada,less than 6,2018,Number,65000
+State,Nevada,less than 13,2018,Number,148000
+State,Nevada,less than 18,2018,Number,193000
+State,Nevada,less than 6,2013,Number,63000
+State,Nevada,less than 13,2013,Number,144000
+State,Nevada,less than 18,2013,Number,188000
+State,Nevada,less than 6,2008,Number,63000
+State,Nevada,less than 13,2008,Number,128000
+State,Nevada,less than 18,2008,Number,166000
+State,New Hampshire,less than 6,2008,Number,13000
+State,New Hampshire,less than 13,2008,Number,29000
+State,New Hampshire,less than 18,2008,Number,40000
+State,New Hampshire,less than 6,2013,Number,17000
+State,New Hampshire,less than 13,2013,Number,35000
+State,New Hampshire,less than 18,2013,Number,45000
+State,New Hampshire,less than 6,2018,Number,11000
+State,New Hampshire,less than 13,2018,Number,23000
+State,New Hampshire,less than 18,2018,Number,33000
+State,New Hampshire,less than 13,2009,Number,30000
+State,New Hampshire,less than 18,2009,Number,42000
+State,New Hampshire,less than 6,2009,Number,12000
+State,New Hampshire,less than 6,2010,Number,13000
+State,New Hampshire,less than 13,2010,Number,30000
+State,New Hampshire,less than 18,2010,Number,38000
+State,New Hampshire,less than 6,2015,Number,14000
+State,New Hampshire,less than 13,2015,Number,29000
+State,New Hampshire,less than 18,2015,Number,37000
+State,New Hampshire,less than 6,2011,Number,15000
+State,New Hampshire,less than 13,2011,Number,34000
+State,New Hampshire,less than 18,2011,Number,47000
+State,New Hampshire,less than 6,2012,Number,16000
+State,New Hampshire,less than 13,2012,Number,35000
+State,New Hampshire,less than 18,2012,Number,48000
+State,New Hampshire,less than 13,2014,Number,34000
+State,New Hampshire,less than 18,2014,Number,44000
+State,New Hampshire,less than 6,2014,Number,15000
+State,New Hampshire,less than 6,2016,Number,13000
+State,New Hampshire,less than 13,2016,Number,27000
+State,New Hampshire,less than 18,2016,Number,35000
+State,New Hampshire,less than 13,2017,Number,25000
+State,New Hampshire,less than 18,2017,Number,32000
+State,New Hampshire,less than 6,2017,Number,10000
+State,New Hampshire,less than 6,2019,Number,11000
+State,New Hampshire,less than 13,2019,Number,24000
+State,New Hampshire,less than 18,2019,Number,32000
+State,New Hampshire,less than 6,2021,Number,9000
+State,New Hampshire,less than 13,2021,Number,22000
+State,New Hampshire,less than 18,2021,Number,28000
+State,New Jersey,less than 6,2021,Number,102000
+State,New Jersey,less than 13,2021,Number,227000
+State,New Jersey,less than 18,2021,Number,306000
+State,New Jersey,less than 6,2019,Number,116000
+State,New Jersey,less than 13,2019,Number,262000
+State,New Jersey,less than 18,2019,Number,359000
+State,New Jersey,less than 13,2017,Number,258000
+State,New Jersey,less than 18,2017,Number,353000
+State,New Jersey,less than 6,2017,Number,113000
+State,New Jersey,less than 18,2016,Number,383000
+State,New Jersey,less than 6,2016,Number,135000
+State,New Jersey,less than 13,2016,Number,284000
+State,New Jersey,less than 13,2014,Number,273000
+State,New Jersey,less than 18,2014,Number,366000
+State,New Jersey,less than 6,2014,Number,125000
+State,New Jersey,less than 6,2012,Number,118000
+State,New Jersey,less than 13,2012,Number,254000
+State,New Jersey,less than 18,2012,Number,347000
+State,New Jersey,less than 6,2015,Number,126000
+State,New Jersey,less than 13,2015,Number,285000
+State,New Jersey,less than 18,2015,Number,379000
+State,New Jersey,less than 6,2011,Number,118000
+State,New Jersey,less than 13,2011,Number,255000
+State,New Jersey,less than 18,2011,Number,343000
+State,New Jersey,less than 6,2010,Number,105000
+State,New Jersey,less than 13,2010,Number,238000
+State,New Jersey,less than 18,2010,Number,324000
+State,New Jersey,less than 13,2009,Number,235000
+State,New Jersey,less than 18,2009,Number,316000
+State,New Jersey,less than 6,2009,Number,111000
+State,New Jersey,less than 6,2018,Number,114000
+State,New Jersey,less than 13,2018,Number,255000
+State,New Jersey,less than 18,2018,Number,348000
+State,New Jersey,less than 6,2013,Number,123000
+State,New Jersey,less than 13,2013,Number,262000
+State,New Jersey,less than 18,2013,Number,358000
+State,New Jersey,less than 6,2008,Number,107000
+State,New Jersey,less than 13,2008,Number,230000
+State,New Jersey,less than 18,2008,Number,303000
+State,New Mexico,less than 6,2008,Number,55000
+State,New Mexico,less than 13,2008,Number,120000
+State,New Mexico,less than 18,2008,Number,158000
+State,New Mexico,less than 6,2013,Number,54000
+State,New Mexico,less than 13,2013,Number,120000
+State,New Mexico,less than 18,2013,Number,161000
+State,New Mexico,less than 6,2018,Number,43000
+State,New Mexico,less than 13,2018,Number,99000
+State,New Mexico,less than 18,2018,Number,136000
+State,New Mexico,less than 13,2009,Number,120000
+State,New Mexico,less than 18,2009,Number,157000
+State,New Mexico,less than 6,2009,Number,58000
+State,New Mexico,less than 6,2010,Number,54000
+State,New Mexico,less than 13,2010,Number,119000
+State,New Mexico,less than 18,2010,Number,160000
+State,New Mexico,less than 6,2011,Number,58000
+State,New Mexico,less than 13,2011,Number,127000
+State,New Mexico,less than 18,2011,Number,164000
+State,New Mexico,less than 6,2015,Number,49000
+State,New Mexico,less than 13,2015,Number,118000
+State,New Mexico,less than 18,2015,Number,160000
+State,New Mexico,less than 6,2012,Number,58000
+State,New Mexico,less than 13,2012,Number,123000
+State,New Mexico,less than 18,2012,Number,160000
+State,New Mexico,less than 13,2014,Number,119000
+State,New Mexico,less than 18,2014,Number,158000
+State,New Mexico,less than 6,2014,Number,54000
+State,New Mexico,less than 6,2016,Number,49000
+State,New Mexico,less than 13,2016,Number,117000
+State,New Mexico,less than 18,2016,Number,157000
+State,New Mexico,less than 13,2017,Number,110000
+State,New Mexico,less than 18,2017,Number,146000
+State,New Mexico,less than 6,2017,Number,49000
+State,New Mexico,less than 6,2019,Number,47000
+State,New Mexico,less than 13,2019,Number,110000
+State,New Mexico,less than 18,2019,Number,149000
+State,New Mexico,less than 6,2021,Number,38000
+State,New Mexico,less than 13,2021,Number,91000
+State,New Mexico,less than 18,2021,Number,129000
+State,New York,less than 6,2021,Number,227000
+State,New York,less than 13,2021,Number,528000
+State,New York,less than 18,2021,Number,733000
+State,New York,less than 6,2019,Number,299000
+State,New York,less than 13,2019,Number,665000
+State,New York,less than 18,2019,Number,910000
+State,New York,less than 13,2017,Number,727000
+State,New York,less than 18,2017,Number,966000
+State,New York,less than 6,2017,Number,326000
+State,New York,less than 18,2016,Number,998000
+State,New York,less than 6,2016,Number,335000
+State,New York,less than 13,2016,Number,739000
+State,New York,less than 13,2014,Number,765000
+State,New York,less than 18,2014,Number,1021000
+State,New York,less than 6,2014,Number,359000
+State,New York,less than 6,2012,Number,344000
+State,New York,less than 13,2012,Number,751000
+State,New York,less than 18,2012,Number,1025000
+State,New York,less than 6,2015,Number,347000
+State,New York,less than 13,2015,Number,755000
+State,New York,less than 18,2015,Number,1013000
+State,New York,less than 6,2011,Number,333000
+State,New York,less than 13,2011,Number,739000
+State,New York,less than 18,2011,Number,1010000
+State,New York,less than 6,2010,Number,311000
+State,New York,less than 13,2010,Number,688000
+State,New York,less than 18,2010,Number,941000
+State,New York,less than 13,2009,Number,691000
+State,New York,less than 18,2009,Number,948000
+State,New York,less than 6,2009,Number,312000
+State,New York,less than 6,2018,Number,324000
+State,New York,less than 13,2018,Number,701000
+State,New York,less than 18,2018,Number,945000
+State,New York,less than 6,2013,Number,342000
+State,New York,less than 13,2013,Number,743000
+State,New York,less than 18,2013,Number,1008000
+State,New York,less than 6,2008,Number,326000
+State,New York,less than 13,2008,Number,712000
+State,New York,less than 18,2008,Number,975000
+State,North Carolina,less than 6,2008,Number,211000
+State,North Carolina,less than 13,2008,Number,436000
+State,North Carolina,less than 18,2008,Number,566000
+State,North Carolina,less than 6,2013,Number,226000
+State,North Carolina,less than 13,2013,Number,488000
+State,North Carolina,less than 18,2013,Number,638000
+State,North Carolina,less than 6,2018,Number,209000
+State,North Carolina,less than 13,2018,Number,468000
+State,North Carolina,less than 18,2018,Number,619000
+State,North Carolina,less than 13,2009,Number,429000
+State,North Carolina,less than 18,2009,Number,560000
+State,North Carolina,less than 6,2009,Number,201000
+State,North Carolina,less than 6,2010,Number,199000
+State,North Carolina,less than 13,2010,Number,426000
+State,North Carolina,less than 18,2010,Number,565000
+State,North Carolina,less than 6,2011,Number,206000
+State,North Carolina,less than 13,2011,Number,456000
+State,North Carolina,less than 18,2011,Number,606000
+State,North Carolina,less than 6,2015,Number,224000
+State,North Carolina,less than 13,2015,Number,504000
+State,North Carolina,less than 18,2015,Number,667000
+State,North Carolina,less than 6,2012,Number,223000
+State,North Carolina,less than 13,2012,Number,480000
+State,North Carolina,less than 18,2012,Number,639000
+State,North Carolina,less than 13,2014,Number,516000
+State,North Carolina,less than 18,2014,Number,677000
+State,North Carolina,less than 6,2014,Number,233000
+State,North Carolina,less than 6,2016,Number,210000
+State,North Carolina,less than 13,2016,Number,475000
+State,North Carolina,less than 18,2016,Number,631000
+State,North Carolina,less than 13,2017,Number,453000
+State,North Carolina,less than 18,2017,Number,605000
+State,North Carolina,less than 6,2017,Number,200000
+State,North Carolina,less than 6,2019,Number,195000
+State,North Carolina,less than 13,2019,Number,450000
+State,North Carolina,less than 18,2019,Number,611000
+State,North Carolina,less than 6,2021,Number,170000
+State,North Carolina,less than 13,2021,Number,390000
+State,North Carolina,less than 18,2021,Number,525000
+State,North Dakota,less than 6,2019,Number,11000
+State,North Dakota,less than 13,2019,Number,26000
+State,North Dakota,less than 18,2019,Number,33000
+State,North Dakota,less than 6,2021,Number,11000
+State,North Dakota,less than 13,2021,Number,26000
+State,North Dakota,less than 18,2021,Number,33000
+State,North Dakota,less than 13,2017,Number,25000
+State,North Dakota,less than 18,2017,Number,31000
+State,North Dakota,less than 6,2017,Number,13000
+State,North Dakota,less than 18,2016,Number,33000
+State,North Dakota,less than 6,2016,Number,13000
+State,North Dakota,less than 13,2016,Number,27000
+State,North Dakota,less than 13,2014,Number,26000
+State,North Dakota,less than 18,2014,Number,33000
+State,North Dakota,less than 6,2014,Number,13000
+State,North Dakota,less than 6,2012,Number,10000
+State,North Dakota,less than 13,2012,Number,22000
+State,North Dakota,less than 18,2012,Number,28000
+State,North Dakota,less than 6,2015,Number,10000
+State,North Dakota,less than 13,2015,Number,21000
+State,North Dakota,less than 18,2015,Number,28000
+State,North Dakota,less than 6,2011,Number,12000
+State,North Dakota,less than 13,2011,Number,24000
+State,North Dakota,less than 18,2011,Number,32000
+State,North Dakota,less than 6,2010,Number,14000
+State,North Dakota,less than 13,2010,Number,26000
+State,North Dakota,less than 18,2010,Number,34000
+State,North Dakota,less than 13,2009,Number,23000
+State,North Dakota,less than 18,2009,Number,30000
+State,North Dakota,less than 6,2009,Number,12000
+State,North Dakota,less than 6,2018,Number,12000
+State,North Dakota,less than 13,2018,Number,27000
+State,North Dakota,less than 18,2018,Number,35000
+State,North Dakota,less than 6,2013,Number,12000
+State,North Dakota,less than 13,2013,Number,25000
+State,North Dakota,less than 18,2013,Number,30000
+State,North Dakota,less than 6,2008,Number,12000
+State,North Dakota,less than 13,2008,Number,24000
+State,North Dakota,less than 18,2008,Number,31000
+State,Ohio,less than 6,2008,Number,199000
+State,Ohio,less than 13,2008,Number,442000
+State,Ohio,less than 18,2008,Number,590000
+State,Ohio,less than 6,2013,Number,225000
+State,Ohio,less than 13,2013,Number,486000
+State,Ohio,less than 18,2013,Number,643000
+State,Ohio,less than 6,2018,Number,215000
+State,Ohio,less than 13,2018,Number,468000
+State,Ohio,less than 18,2018,Number,621000
+State,Ohio,less than 13,2009,Number,459000
+State,Ohio,less than 18,2009,Number,608000
+State,Ohio,less than 6,2009,Number,214000
+State,Ohio,less than 6,2010,Number,216000
+State,Ohio,less than 13,2010,Number,474000
+State,Ohio,less than 18,2010,Number,635000
+State,Ohio,less than 6,2011,Number,217000
+State,Ohio,less than 13,2011,Number,479000
+State,Ohio,less than 18,2011,Number,639000
+State,Ohio,less than 6,2015,Number,219000
+State,Ohio,less than 13,2015,Number,469000
+State,Ohio,less than 18,2015,Number,623000
+State,Ohio,less than 6,2012,Number,225000
+State,Ohio,less than 13,2012,Number,474000
+State,Ohio,less than 18,2012,Number,633000
+State,Ohio,less than 13,2014,Number,484000
+State,Ohio,less than 18,2014,Number,639000
+State,Ohio,less than 6,2014,Number,216000
+State,Ohio,less than 18,2016,Number,608000
+State,Ohio,less than 6,2016,Number,208000
+State,Ohio,less than 13,2016,Number,457000
+State,Ohio,less than 13,2017,Number,464000
+State,Ohio,less than 18,2017,Number,614000
+State,Ohio,less than 6,2017,Number,207000
+State,Ohio,less than 6,2019,Number,209000
+State,Ohio,less than 13,2019,Number,468000
+State,Ohio,less than 18,2019,Number,616000
+State,Ohio,less than 6,2021,Number,169000
+State,Ohio,less than 13,2021,Number,387000
+State,Ohio,less than 18,2021,Number,514000
+State,Oklahoma,less than 6,2019,Number,96000
+State,Oklahoma,less than 13,2019,Number,217000
+State,Oklahoma,less than 18,2019,Number,285000
+State,Oklahoma,less than 6,2021,Number,89000
+State,Oklahoma,less than 13,2021,Number,193000
+State,Oklahoma,less than 18,2021,Number,263000
+State,Oklahoma,less than 13,2017,Number,216000
+State,Oklahoma,less than 18,2017,Number,281000
+State,Oklahoma,less than 6,2017,Number,98000
+State,Oklahoma,less than 18,2016,Number,282000
+State,Oklahoma,less than 6,2016,Number,97000
+State,Oklahoma,less than 13,2016,Number,216000
+State,Oklahoma,less than 13,2014,Number,211000
+State,Oklahoma,less than 18,2014,Number,271000
+State,Oklahoma,less than 6,2014,Number,99000
+State,Oklahoma,less than 6,2012,Number,99000
+State,Oklahoma,less than 13,2012,Number,211000
+State,Oklahoma,less than 18,2012,Number,277000
+State,Oklahoma,less than 6,2015,Number,100000
+State,Oklahoma,less than 13,2015,Number,212000
+State,Oklahoma,less than 18,2015,Number,277000
+State,Oklahoma,less than 6,2011,Number,100000
+State,Oklahoma,less than 13,2011,Number,208000
+State,Oklahoma,less than 18,2011,Number,268000
+State,Oklahoma,less than 6,2010,Number,97000
+State,Oklahoma,less than 13,2010,Number,208000
+State,Oklahoma,less than 18,2010,Number,264000
+State,Oklahoma,less than 13,2009,Number,212000
+State,Oklahoma,less than 18,2009,Number,271000
+State,Oklahoma,less than 6,2009,Number,98000
+State,Oklahoma,less than 6,2018,Number,97000
+State,Oklahoma,less than 13,2018,Number,209000
+State,Oklahoma,less than 18,2018,Number,275000
+State,Oklahoma,less than 6,2013,Number,106000
+State,Oklahoma,less than 13,2013,Number,225000
+State,Oklahoma,less than 18,2013,Number,288000
+State,Oklahoma,less than 6,2008,Number,97000
+State,Oklahoma,less than 13,2008,Number,196000
+State,Oklahoma,less than 18,2008,Number,252000
+State,Oregon,less than 6,2008,Number,77000
+State,Oregon,less than 13,2008,Number,161000
+State,Oregon,less than 18,2008,Number,210000
+State,Oregon,less than 6,2013,Number,66000
+State,Oregon,less than 13,2013,Number,159000
+State,Oregon,less than 18,2013,Number,221000
+State,Oregon,less than 6,2018,Number,66000
+State,Oregon,less than 13,2018,Number,153000
+State,Oregon,less than 18,2018,Number,199000
+State,Oregon,less than 13,2009,Number,154000
+State,Oregon,less than 18,2009,Number,202000
+State,Oregon,less than 6,2009,Number,72000
+State,Oregon,less than 6,2010,Number,74000
+State,Oregon,less than 13,2010,Number,166000
+State,Oregon,less than 18,2010,Number,223000
+State,Oregon,less than 6,2015,Number,74000
+State,Oregon,less than 13,2015,Number,172000
+State,Oregon,less than 18,2015,Number,232000
+State,Oregon,less than 6,2011,Number,74000
+State,Oregon,less than 13,2011,Number,164000
+State,Oregon,less than 18,2011,Number,214000
+State,Oregon,less than 6,2012,Number,78000
+State,Oregon,less than 13,2012,Number,168000
+State,Oregon,less than 18,2012,Number,226000
+State,Oregon,less than 13,2014,Number,172000
+State,Oregon,less than 18,2014,Number,229000
+State,Oregon,less than 6,2014,Number,78000
+State,Oregon,less than 18,2016,Number,209000
+State,Oregon,less than 6,2016,Number,69000
+State,Oregon,less than 13,2016,Number,160000
+State,Oregon,less than 13,2017,Number,162000
+State,Oregon,less than 18,2017,Number,214000
+State,Oregon,less than 6,2017,Number,73000
+State,Oregon,less than 6,2021,Number,51000
+State,Oregon,less than 13,2021,Number,115000
+State,Oregon,less than 18,2021,Number,160000
+State,Oregon,less than 6,2019,Number,53000
+State,Oregon,less than 13,2019,Number,127000
+State,Oregon,less than 18,2019,Number,170000
+State,Pennsylvania,less than 6,2019,Number,198000
+State,Pennsylvania,less than 13,2019,Number,438000
+State,Pennsylvania,less than 18,2019,Number,576000
+State,Pennsylvania,less than 6,2021,Number,152000
+State,Pennsylvania,less than 13,2021,Number,354000
+State,Pennsylvania,less than 18,2021,Number,481000
+State,Pennsylvania,less than 13,2017,Number,428000
+State,Pennsylvania,less than 18,2017,Number,561000
+State,Pennsylvania,less than 6,2017,Number,194000
+State,Pennsylvania,less than 18,2016,Number,582000
+State,Pennsylvania,less than 6,2016,Number,192000
+State,Pennsylvania,less than 13,2016,Number,438000
+State,Pennsylvania,less than 13,2014,Number,432000
+State,Pennsylvania,less than 18,2014,Number,583000
+State,Pennsylvania,less than 6,2014,Number,196000
+State,Pennsylvania,less than 6,2012,Number,201000
+State,Pennsylvania,less than 13,2012,Number,430000
+State,Pennsylvania,less than 18,2012,Number,577000
+State,Pennsylvania,less than 6,2011,Number,186000
+State,Pennsylvania,less than 13,2011,Number,409000
+State,Pennsylvania,less than 18,2011,Number,548000
+State,Pennsylvania,less than 6,2015,Number,196000
+State,Pennsylvania,less than 13,2015,Number,437000
+State,Pennsylvania,less than 18,2015,Number,573000
+State,Pennsylvania,less than 6,2010,Number,181000
+State,Pennsylvania,less than 13,2010,Number,415000
+State,Pennsylvania,less than 18,2010,Number,572000
+State,Pennsylvania,less than 13,2009,Number,409000
+State,Pennsylvania,less than 18,2009,Number,559000
+State,Pennsylvania,less than 6,2009,Number,188000
+State,Pennsylvania,less than 6,2018,Number,191000
+State,Pennsylvania,less than 13,2018,Number,425000
+State,Pennsylvania,less than 18,2018,Number,563000
+State,Pennsylvania,less than 6,2013,Number,201000
+State,Pennsylvania,less than 13,2013,Number,445000
+State,Pennsylvania,less than 18,2013,Number,592000
+State,Pennsylvania,less than 6,2008,Number,183000
+State,Pennsylvania,less than 13,2008,Number,410000
+State,Pennsylvania,less than 18,2008,Number,550000
+State,Rhode Island,less than 6,2008,Number,12000
+State,Rhode Island,less than 13,2008,Number,28000
+State,Rhode Island,less than 18,2008,Number,40000
+State,Rhode Island,less than 6,2013,Number,14000
+State,Rhode Island,less than 13,2013,Number,32000
+State,Rhode Island,less than 18,2013,Number,43000
+State,Rhode Island,less than 6,2018,Number,13000
+State,Rhode Island,less than 13,2018,Number,28000
+State,Rhode Island,less than 18,2018,Number,35000
+State,Rhode Island,less than 13,2009,Number,33000
+State,Rhode Island,less than 18,2009,Number,44000
+State,Rhode Island,less than 6,2009,Number,16000
+State,Rhode Island,less than 6,2015,Number,13000
+State,Rhode Island,less than 13,2015,Number,33000
+State,Rhode Island,less than 18,2015,Number,45000
+State,Rhode Island,less than 6,2010,Number,13000
+State,Rhode Island,less than 13,2010,Number,28000
+State,Rhode Island,less than 18,2010,Number,42000
+State,Rhode Island,less than 6,2011,Number,15000
+State,Rhode Island,less than 13,2011,Number,32000
+State,Rhode Island,less than 18,2011,Number,42000
+State,Rhode Island,less than 6,2012,Number,12000
+State,Rhode Island,less than 13,2012,Number,28000
+State,Rhode Island,less than 18,2012,Number,40000
+State,Rhode Island,less than 13,2014,Number,35000
+State,Rhode Island,less than 18,2014,Number,46000
+State,Rhode Island,less than 6,2014,Number,16000
+State,Rhode Island,less than 18,2016,Number,41000
+State,Rhode Island,less than 6,2016,Number,13000
+State,Rhode Island,less than 13,2016,Number,29000
+State,Rhode Island,less than 13,2017,Number,33000
+State,Rhode Island,less than 18,2017,Number,41000
+State,Rhode Island,less than 6,2017,Number,14000
+State,Rhode Island,less than 6,2021,Number,14000
+State,Rhode Island,less than 13,2021,Number,28000
+State,Rhode Island,less than 18,2021,Number,37000
+State,Rhode Island,less than 6,2019,Number,15000
+State,Rhode Island,less than 13,2019,Number,32000
+State,Rhode Island,less than 18,2019,Number,42000
+State,South Carolina,less than 6,2019,Number,97000
+State,South Carolina,less than 13,2019,Number,228000
+State,South Carolina,less than 18,2019,Number,310000
+State,South Carolina,less than 6,2021,Number,88000
+State,South Carolina,less than 13,2021,Number,197000
+State,South Carolina,less than 18,2021,Number,268000
+State,South Carolina,less than 13,2017,Number,237000
+State,South Carolina,less than 18,2017,Number,315000
+State,South Carolina,less than 6,2017,Number,100000
+State,South Carolina,less than 18,2016,Number,300000
+State,South Carolina,less than 6,2016,Number,103000
+State,South Carolina,less than 13,2016,Number,226000
+State,South Carolina,less than 13,2014,Number,245000
+State,South Carolina,less than 18,2014,Number,322000
+State,South Carolina,less than 6,2014,Number,106000
+State,South Carolina,less than 6,2012,Number,104000
+State,South Carolina,less than 13,2012,Number,230000
+State,South Carolina,less than 18,2012,Number,299000
+State,South Carolina,less than 6,2011,Number,104000
+State,South Carolina,less than 13,2011,Number,224000
+State,South Carolina,less than 18,2011,Number,295000
+State,South Carolina,less than 6,2015,Number,105000
+State,South Carolina,less than 13,2015,Number,229000
+State,South Carolina,less than 18,2015,Number,304000
+State,South Carolina,less than 13,2009,Number,217000
+State,South Carolina,less than 18,2009,Number,279000
+State,South Carolina,less than 6,2009,Number,104000
+State,South Carolina,less than 6,2010,Number,87000
+State,South Carolina,less than 13,2010,Number,203000
+State,South Carolina,less than 18,2010,Number,271000
+State,South Carolina,less than 6,2018,Number,98000
+State,South Carolina,less than 13,2018,Number,225000
+State,South Carolina,less than 18,2018,Number,296000
+State,South Carolina,less than 6,2013,Number,110000
+State,South Carolina,less than 13,2013,Number,238000
+State,South Carolina,less than 18,2013,Number,310000
+State,South Carolina,less than 6,2008,Number,94000
+State,South Carolina,less than 13,2008,Number,197000
+State,South Carolina,less than 18,2008,Number,266000
+State,South Dakota,less than 6,2008,Number,20000
+State,South Dakota,less than 13,2008,Number,40000
+State,South Dakota,less than 18,2008,Number,52000
+State,South Dakota,less than 6,2013,Number,19000
+State,South Dakota,less than 13,2013,Number,41000
+State,South Dakota,less than 18,2013,Number,52000
+State,South Dakota,less than 6,2018,Number,18000
+State,South Dakota,less than 13,2018,Number,40000
+State,South Dakota,less than 18,2018,Number,51000
+State,South Dakota,less than 13,2009,Number,41000
+State,South Dakota,less than 18,2009,Number,51000
+State,South Dakota,less than 6,2009,Number,20000
+State,South Dakota,less than 6,2015,Number,18000
+State,South Dakota,less than 13,2015,Number,40000
+State,South Dakota,less than 18,2015,Number,52000
+State,South Dakota,less than 6,2010,Number,19000
+State,South Dakota,less than 13,2010,Number,42000
+State,South Dakota,less than 18,2010,Number,56000
+State,South Dakota,less than 6,2011,Number,21000
+State,South Dakota,less than 13,2011,Number,42000
+State,South Dakota,less than 18,2011,Number,53000
+State,South Dakota,less than 6,2012,Number,21000
+State,South Dakota,less than 13,2012,Number,43000
+State,South Dakota,less than 18,2012,Number,55000
+State,South Dakota,less than 13,2014,Number,43000
+State,South Dakota,less than 18,2014,Number,54000
+State,South Dakota,less than 6,2014,Number,21000
+State,South Dakota,less than 6,2016,Number,18000
+State,South Dakota,less than 13,2016,Number,38000
+State,South Dakota,less than 18,2016,Number,47000
+State,South Dakota,less than 13,2017,Number,36000
+State,South Dakota,less than 18,2017,Number,45000
+State,South Dakota,less than 6,2017,Number,18000
+State,South Dakota,less than 6,2021,Number,17000
+State,South Dakota,less than 13,2021,Number,33000
+State,South Dakota,less than 18,2021,Number,44000
+State,South Dakota,less than 6,2019,Number,20000
+State,South Dakota,less than 13,2019,Number,38000
+State,South Dakota,less than 18,2019,Number,49000
+State,Tennessee,less than 6,2019,Number,140000
+State,Tennessee,less than 13,2019,Number,298000
+State,Tennessee,less than 18,2019,Number,393000
+State,Tennessee,less than 6,2021,Number,120000
+State,Tennessee,less than 13,2021,Number,264000
+State,Tennessee,less than 18,2021,Number,353000
+State,Tennessee,less than 13,2017,Number,304000
+State,Tennessee,less than 18,2017,Number,405000
+State,Tennessee,less than 6,2017,Number,137000
+State,Tennessee,less than 18,2016,Number,416000
+State,Tennessee,less than 6,2016,Number,144000
+State,Tennessee,less than 13,2016,Number,314000
+State,Tennessee,less than 13,2014,Number,319000
+State,Tennessee,less than 18,2014,Number,421000
+State,Tennessee,less than 6,2014,Number,150000
+State,Tennessee,less than 6,2012,Number,150000
+State,Tennessee,less than 13,2012,Number,314000
+State,Tennessee,less than 18,2012,Number,409000
+State,Tennessee,less than 6,2011,Number,138000
+State,Tennessee,less than 13,2011,Number,308000
+State,Tennessee,less than 18,2011,Number,402000
+State,Tennessee,less than 6,2010,Number,135000
+State,Tennessee,less than 13,2010,Number,279000
+State,Tennessee,less than 18,2010,Number,377000
+State,Tennessee,less than 6,2015,Number,146000
+State,Tennessee,less than 13,2015,Number,323000
+State,Tennessee,less than 18,2015,Number,423000
+State,Tennessee,less than 13,2009,Number,268000
+State,Tennessee,less than 18,2009,Number,362000
+State,Tennessee,less than 6,2009,Number,128000
+State,Tennessee,less than 6,2018,Number,141000
+State,Tennessee,less than 13,2018,Number,309000
+State,Tennessee,less than 18,2018,Number,408000
+State,Tennessee,less than 6,2013,Number,147000
+State,Tennessee,less than 13,2013,Number,311000
+State,Tennessee,less than 18,2013,Number,410000
+State,Tennessee,less than 6,2008,Number,138000
+State,Tennessee,less than 13,2008,Number,281000
+State,Tennessee,less than 18,2008,Number,372000
+State,Texas,less than 6,2008,Number,745000
+State,Texas,less than 13,2008,Number,1518000
+State,Texas,less than 18,2008,Number,1970000
+State,Texas,less than 6,2013,Number,722000
+State,Texas,less than 13,2013,Number,1612000
+State,Texas,less than 18,2013,Number,2154000
+State,Texas,less than 6,2018,Number,707000
+State,Texas,less than 13,2018,Number,1606000
+State,Texas,less than 18,2018,Number,2159000
+State,Texas,less than 13,2009,Number,1550000
+State,Texas,less than 18,2009,Number,2027000
+State,Texas,less than 6,2009,Number,742000
+State,Texas,less than 6,2015,Number,727000
+State,Texas,less than 13,2015,Number,1614000
+State,Texas,less than 18,2015,Number,2171000
+State,Texas,less than 6,2010,Number,703000
+State,Texas,less than 13,2010,Number,1556000
+State,Texas,less than 18,2010,Number,2066000
+State,Texas,less than 6,2011,Number,747000
+State,Texas,less than 13,2011,Number,1624000
+State,Texas,less than 18,2011,Number,2152000
+State,Texas,less than 6,2012,Number,733000
+State,Texas,less than 13,2012,Number,1622000
+State,Texas,less than 18,2012,Number,2147000
+State,Texas,less than 13,2014,Number,1628000
+State,Texas,less than 18,2014,Number,2184000
+State,Texas,less than 6,2014,Number,720000
+State,Texas,less than 6,2016,Number,734000
+State,Texas,less than 13,2016,Number,1651000
+State,Texas,less than 18,2016,Number,2211000
+State,Texas,less than 13,2017,Number,1591000
+State,Texas,less than 18,2017,Number,2153000
+State,Texas,less than 6,2017,Number,719000
+State,Texas,less than 6,2021,Number,581000
+State,Texas,less than 13,2021,Number,1334000
+State,Texas,less than 18,2021,Number,1849000
+State,Texas,less than 6,2019,Number,693000
+State,Texas,less than 13,2019,Number,1561000
+State,Texas,less than 18,2019,Number,2112000
+State,Utah,less than 6,2019,Number,73000
+State,Utah,less than 13,2019,Number,157000
+State,Utah,less than 18,2019,Number,200000
+State,Utah,less than 6,2021,Number,65000
+State,Utah,less than 13,2021,Number,146000
+State,Utah,less than 18,2021,Number,192000
+State,Utah,less than 13,2017,Number,160000
+State,Utah,less than 18,2017,Number,208000
+State,Utah,less than 6,2017,Number,75000
+State,Utah,less than 18,2016,Number,223000
+State,Utah,less than 6,2016,Number,82000
+State,Utah,less than 13,2016,Number,178000
+State,Utah,less than 13,2014,Number,195000
+State,Utah,less than 18,2014,Number,243000
+State,Utah,less than 6,2014,Number,94000
+State,Utah,less than 6,2012,Number,101000
+State,Utah,less than 13,2012,Number,203000
+State,Utah,less than 18,2012,Number,260000
+State,Utah,less than 6,2011,Number,95000
+State,Utah,less than 13,2011,Number,193000
+State,Utah,less than 18,2011,Number,243000
+State,Utah,less than 6,2010,Number,95000
+State,Utah,less than 13,2010,Number,188000
+State,Utah,less than 18,2010,Number,238000
+State,Utah,less than 6,2015,Number,89000
+State,Utah,less than 13,2015,Number,190000
+State,Utah,less than 18,2015,Number,237000
+State,Utah,less than 13,2009,Number,172000
+State,Utah,less than 18,2009,Number,215000
+State,Utah,less than 6,2009,Number,86000
+State,Utah,less than 6,2018,Number,77000
+State,Utah,less than 13,2018,Number,164000
+State,Utah,less than 18,2018,Number,211000
+State,Utah,less than 6,2013,Number,97000
+State,Utah,less than 13,2013,Number,199000
+State,Utah,less than 18,2013,Number,252000
+State,Utah,less than 6,2008,Number,89000
+State,Utah,less than 13,2008,Number,171000
+State,Utah,less than 18,2008,Number,209000
+State,Vermont,less than 6,2008,Number,7000
+State,Vermont,less than 13,2008,Number,16000
+State,Vermont,less than 18,2008,Number,22000
+State,Vermont,less than 6,2013,Number,8000
+State,Vermont,less than 13,2013,Number,17000
+State,Vermont,less than 18,2013,Number,23000
+State,Vermont,less than 6,2018,Number,7000
+State,Vermont,less than 13,2018,Number,15000
+State,Vermont,less than 18,2018,Number,19000
+State,Vermont,less than 13,2009,Number,16000
+State,Vermont,less than 18,2009,Number,22000
+State,Vermont,less than 6,2009,Number,7000
+State,Vermont,less than 6,2015,Number,8000
+State,Vermont,less than 13,2015,Number,18000
+State,Vermont,less than 18,2015,Number,23000
+State,Vermont,less than 6,2010,Number,8000
+State,Vermont,less than 13,2010,Number,19000
+State,Vermont,less than 18,2010,Number,25000
+State,Vermont,less than 6,2011,Number,10000
+State,Vermont,less than 13,2011,Number,21000
+State,Vermont,less than 18,2011,Number,26000
+State,Vermont,less than 6,2012,Number,11000
+State,Vermont,less than 13,2012,Number,22000
+State,Vermont,less than 18,2012,Number,29000
+State,Vermont,less than 13,2014,Number,19000
+State,Vermont,less than 18,2014,Number,24000
+State,Vermont,less than 6,2014,Number,9000
+State,Vermont,less than 18,2016,Number,20000
+State,Vermont,less than 6,2016,Number,8000
+State,Vermont,less than 13,2016,Number,15000
+State,Vermont,less than 13,2017,Number,20000
+State,Vermont,less than 18,2017,Number,26000
+State,Vermont,less than 6,2017,Number,8000
+State,Vermont,less than 6,2021,Number,5000
+State,Vermont,less than 13,2021,Number,12000
+State,Vermont,less than 18,2021,Number,16000
+State,Vermont,less than 6,2019,Number,7000
+State,Vermont,less than 13,2019,Number,16000
+State,Vermont,less than 18,2019,Number,21000
+State,Virginia,less than 6,2019,Number,123000
+State,Virginia,less than 13,2019,Number,272000
+State,Virginia,less than 18,2019,Number,366000
+State,Virginia,less than 6,2021,Number,102000
+State,Virginia,less than 13,2021,Number,226000
+State,Virginia,less than 18,2021,Number,301000
+State,Virginia,less than 13,2017,Number,265000
+State,Virginia,less than 18,2017,Number,346000
+State,Virginia,less than 6,2017,Number,121000
+State,Virginia,less than 6,2016,Number,110000
+State,Virginia,less than 13,2016,Number,252000
+State,Virginia,less than 18,2016,Number,334000
+State,Virginia,less than 13,2014,Number,285000
+State,Virginia,less than 18,2014,Number,377000
+State,Virginia,less than 6,2014,Number,131000
+State,Virginia,less than 6,2012,Number,133000
+State,Virginia,less than 13,2012,Number,286000
+State,Virginia,less than 18,2012,Number,370000
+State,Virginia,less than 6,2011,Number,121000
+State,Virginia,less than 13,2011,Number,257000
+State,Virginia,less than 18,2011,Number,347000
+State,Virginia,less than 6,2015,Number,127000
+State,Virginia,less than 13,2015,Number,277000
+State,Virginia,less than 18,2015,Number,362000
+State,Virginia,less than 13,2009,Number,237000
+State,Virginia,less than 18,2009,Number,313000
+State,Virginia,less than 6,2009,Number,108000
+State,Virginia,less than 6,2010,Number,125000
+State,Virginia,less than 13,2010,Number,262000
+State,Virginia,less than 18,2010,Number,345000
+State,Virginia,less than 6,2018,Number,114000
+State,Virginia,less than 13,2018,Number,254000
+State,Virginia,less than 18,2018,Number,335000
+State,Virginia,less than 6,2013,Number,131000
+State,Virginia,less than 13,2013,Number,282000
+State,Virginia,less than 18,2013,Number,373000
+State,Virginia,less than 6,2008,Number,117000
+State,Virginia,less than 13,2008,Number,247000
+State,Virginia,less than 18,2008,Number,325000
+State,Washington,less than 6,2008,Number,116000
+State,Washington,less than 13,2008,Number,243000
+State,Washington,less than 18,2008,Number,314000
+State,Washington,less than 6,2013,Number,133000
+State,Washington,less than 13,2013,Number,284000
+State,Washington,less than 18,2013,Number,372000
+State,Washington,less than 6,2018,Number,113000
+State,Washington,less than 13,2018,Number,244000
+State,Washington,less than 18,2018,Number,315000
+State,Washington,less than 13,2009,Number,233000
+State,Washington,less than 18,2009,Number,305000
+State,Washington,less than 6,2009,Number,111000
+State,Washington,less than 6,2015,Number,127000
+State,Washington,less than 13,2015,Number,274000
+State,Washington,less than 18,2015,Number,357000
+State,Washington,less than 6,2010,Number,116000
+State,Washington,less than 13,2010,Number,245000
+State,Washington,less than 18,2010,Number,320000
+State,Washington,less than 6,2011,Number,120000
+State,Washington,less than 13,2011,Number,258000
+State,Washington,less than 18,2011,Number,335000
+State,Washington,less than 6,2012,Number,125000
+State,Washington,less than 13,2012,Number,262000
+State,Washington,less than 18,2012,Number,353000
+State,Washington,less than 13,2014,Number,277000
+State,Washington,less than 18,2014,Number,355000
+State,Washington,less than 6,2014,Number,129000
+State,Washington,less than 18,2016,Number,337000
+State,Washington,less than 6,2016,Number,123000
+State,Washington,less than 13,2016,Number,263000
+State,Washington,less than 13,2017,Number,236000
+State,Washington,less than 18,2017,Number,309000
+State,Washington,less than 6,2017,Number,101000
+State,Washington,less than 6,2019,Number,105000
+State,Washington,less than 13,2019,Number,229000
+State,Washington,less than 18,2019,Number,301000
+State,Washington,less than 6,2021,Number,83000
+State,Washington,less than 13,2021,Number,182000
+State,Washington,less than 18,2021,Number,249000
+State,West Virginia,less than 6,2019,Number,30000
+State,West Virginia,less than 13,2019,Number,66000
+State,West Virginia,less than 18,2019,Number,89000
+State,West Virginia,less than 6,2021,Number,26000
+State,West Virginia,less than 13,2021,Number,56000
+State,West Virginia,less than 18,2021,Number,76000
+State,West Virginia,less than 13,2017,Number,66000
+State,West Virginia,less than 18,2017,Number,88000
+State,West Virginia,less than 6,2017,Number,27000
+State,West Virginia,less than 18,2016,Number,96000
+State,West Virginia,less than 6,2016,Number,32000
+State,West Virginia,less than 13,2016,Number,72000
+State,West Virginia,less than 13,2014,Number,76000
+State,West Virginia,less than 18,2014,Number,101000
+State,West Virginia,less than 6,2014,Number,35000
+State,West Virginia,less than 6,2012,Number,33000
+State,West Virginia,less than 13,2012,Number,72000
+State,West Virginia,less than 18,2012,Number,96000
+State,West Virginia,less than 6,2011,Number,31000
+State,West Virginia,less than 13,2011,Number,69000
+State,West Virginia,less than 18,2011,Number,95000
+State,West Virginia,less than 6,2015,Number,30000
+State,West Virginia,less than 13,2015,Number,64000
+State,West Virginia,less than 18,2015,Number,91000
+State,West Virginia,less than 13,2009,Number,66000
+State,West Virginia,less than 18,2009,Number,90000
+State,West Virginia,less than 6,2009,Number,31000
+State,West Virginia,less than 6,2010,Number,27000
+State,West Virginia,less than 13,2010,Number,65000
+State,West Virginia,less than 18,2010,Number,89000
+State,West Virginia,less than 6,2018,Number,32000
+State,West Virginia,less than 13,2018,Number,70000
+State,West Virginia,less than 18,2018,Number,95000
+State,West Virginia,less than 6,2013,Number,32000
+State,West Virginia,less than 13,2013,Number,67000
+State,West Virginia,less than 18,2013,Number,89000
+State,West Virginia,less than 6,2008,Number,33000
+State,West Virginia,less than 13,2008,Number,72000
+State,West Virginia,less than 18,2008,Number,97000
+State,Wisconsin,less than 6,2008,Number,101000
+State,Wisconsin,less than 13,2008,Number,216000
+State,Wisconsin,less than 18,2008,Number,281000
+State,Wisconsin,less than 6,2013,Number,109000
+State,Wisconsin,less than 13,2013,Number,239000
+State,Wisconsin,less than 18,2013,Number,314000
+State,Wisconsin,less than 6,2018,Number,101000
+State,Wisconsin,less than 13,2018,Number,220000
+State,Wisconsin,less than 18,2018,Number,287000
+State,Wisconsin,less than 6,2010,Number,106000
+State,Wisconsin,less than 13,2010,Number,225000
+State,Wisconsin,less than 18,2010,Number,297000
+State,Wisconsin,less than 13,2009,Number,217000
+State,Wisconsin,less than 18,2009,Number,285000
+State,Wisconsin,less than 6,2009,Number,103000
+State,Wisconsin,less than 6,2015,Number,100000
+State,Wisconsin,less than 13,2015,Number,226000
+State,Wisconsin,less than 18,2015,Number,296000
+State,Wisconsin,less than 6,2011,Number,106000
+State,Wisconsin,less than 13,2011,Number,230000
+State,Wisconsin,less than 18,2011,Number,304000
+State,Wisconsin,less than 6,2012,Number,103000
+State,Wisconsin,less than 13,2012,Number,227000
+State,Wisconsin,less than 18,2012,Number,301000
+State,Wisconsin,less than 13,2014,Number,233000
+State,Wisconsin,less than 18,2014,Number,307000
+State,Wisconsin,less than 6,2014,Number,107000
+State,Wisconsin,less than 6,2016,Number,96000
+State,Wisconsin,less than 13,2016,Number,215000
+State,Wisconsin,less than 18,2016,Number,281000
+State,Wisconsin,less than 13,2017,Number,222000
+State,Wisconsin,less than 18,2017,Number,292000
+State,Wisconsin,less than 6,2017,Number,99000
+State,Wisconsin,less than 6,2021,Number,82000
+State,Wisconsin,less than 13,2021,Number,191000
+State,Wisconsin,less than 18,2021,Number,256000
+State,Wisconsin,less than 6,2019,Number,97000
+State,Wisconsin,less than 13,2019,Number,214000
+State,Wisconsin,less than 18,2019,Number,284000
+State,Wyoming,less than 6,2021,Number,8000
+State,Wyoming,less than 13,2021,Number,18000
+State,Wyoming,less than 18,2021,Number,24000
+State,Wyoming,less than 6,2019,Number,12000
+State,Wyoming,less than 13,2019,Number,25000
+State,Wyoming,less than 18,2019,Number,31000
+State,Wyoming,less than 13,2017,Number,24000
+State,Wyoming,less than 18,2017,Number,30000
+State,Wyoming,less than 6,2017,Number,11000
+State,Wyoming,less than 18,2016,Number,31000
+State,Wyoming,less than 6,2016,Number,10000
+State,Wyoming,less than 13,2016,Number,25000
+State,Wyoming,less than 13,2014,Number,24000
+State,Wyoming,less than 18,2014,Number,29000
+State,Wyoming,less than 6,2014,Number,12000
+State,Wyoming,less than 6,2012,Number,12000
+State,Wyoming,less than 13,2012,Number,27000
+State,Wyoming,less than 18,2012,Number,34000
+State,Wyoming,less than 6,2011,Number,14000
+State,Wyoming,less than 13,2011,Number,28000
+State,Wyoming,less than 18,2011,Number,34000
+State,Wyoming,less than 6,2015,Number,11000
+State,Wyoming,less than 13,2015,Number,24000
+State,Wyoming,less than 18,2015,Number,31000
+State,Wyoming,less than 13,2009,Number,22000
+State,Wyoming,less than 18,2009,Number,28000
+State,Wyoming,less than 6,2009,Number,10000
+State,Wyoming,less than 6,2010,Number,13000
+State,Wyoming,less than 13,2010,Number,30000
+State,Wyoming,less than 18,2010,Number,35000
+State,Wyoming,less than 6,2018,Number,10000
+State,Wyoming,less than 13,2018,Number,19000
+State,Wyoming,less than 18,2018,Number,28000
+State,Wyoming,less than 6,2013,Number,11000
+State,Wyoming,less than 13,2013,Number,23000
+State,Wyoming,less than 18,2013,Number,29000
+State,Wyoming,less than 6,2008,Number,9000
+State,Wyoming,less than 13,2008,Number,20000
+State,Wyoming,less than 18,2008,Number,27000
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

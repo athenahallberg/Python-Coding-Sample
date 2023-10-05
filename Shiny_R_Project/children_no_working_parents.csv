@@ -1,0 +1,1353 @@
+LocationType,Location,TimeFrame,DataFormat,Data
+State,Alabama,2019,Number,32000
+State,Alabama,2021,Number,34000
+State,Alabama,2017,Number,41000
+State,Alabama,2016,Number,34000
+State,Alabama,2012,Number,40000
+State,Alabama,2014,Number,40000
+State,Alabama,2011,Number,39000
+State,Alabama,2015,Number,38000
+State,Alabama,2009,Number,37000
+State,Alabama,2010,Number,42000
+State,Alabama,2018,Number,36000
+State,Alabama,2013,Number,38000
+State,Alabama,2008,Number,38000
+State,Alaska,2008,Number,4000
+State,Alaska,2013,Number,4000
+State,Alaska,2018,Number,6000
+State,Alaska,2009,Number,5000
+State,Alaska,2010,Number,6000
+State,Alaska,2015,Number,4000
+State,Alaska,2011,Number,6000
+State,Alaska,2014,Number,5000
+State,Alaska,2012,Number,7000
+State,Alaska,2016,Number,5000
+State,Alaska,2017,Number,5000
+State,Alaska,2021,Number,4000
+State,Alaska,2019,Number,4000
+State,Arizona,2019,Number,45000
+State,Arizona,2021,Number,42000
+State,Arizona,2016,Number,51000
+State,Arizona,2017,Number,49000
+State,Arizona,2012,Number,56000
+State,Arizona,2014,Number,61000
+State,Arizona,2011,Number,59000
+State,Arizona,2015,Number,49000
+State,Arizona,2009,Number,64000
+State,Arizona,2010,Number,65000
+State,Arizona,2018,Number,51000
+State,Arizona,2013,Number,64000
+State,Arizona,2008,Number,60000
+State,Arkansas,2008,Number,27000
+State,Arkansas,2013,Number,25000
+State,Arkansas,2018,Number,22000
+State,Arkansas,2010,Number,23000
+State,Arkansas,2009,Number,24000
+State,Arkansas,2015,Number,27000
+State,Arkansas,2011,Number,25000
+State,Arkansas,2014,Number,22000
+State,Arkansas,2012,Number,25000
+State,Arkansas,2016,Number,25000
+State,Arkansas,2017,Number,23000
+State,Arkansas,2021,Number,24000
+State,Arkansas,2019,Number,20000
+State,California,2019,Number,229000
+State,California,2021,Number,237000
+State,California,2016,Number,292000
+State,California,2017,Number,260000
+State,California,2012,Number,308000
+State,California,2014,Number,311000
+State,California,2011,Number,320000
+State,California,2015,Number,304000
+State,California,2010,Number,323000
+State,California,2009,Number,322000
+State,California,2018,Number,248000
+State,California,2013,Number,320000
+State,California,2008,Number,266000
+State,Colorado,2008,Number,23000
+State,Colorado,2013,Number,28000
+State,Colorado,2018,Number,21000
+State,Colorado,2009,Number,29000
+State,Colorado,2010,Number,29000
+State,Colorado,2011,Number,30000
+State,Colorado,2015,Number,28000
+State,Colorado,2014,Number,28000
+State,Colorado,2012,Number,30000
+State,Colorado,2017,Number,22000
+State,Colorado,2016,Number,21000
+State,Colorado,2021,Number,23000
+State,Colorado,2019,Number,21000
+State,Connecticut,2019,Number,11000
+State,Connecticut,2021,Number,12000
+State,Connecticut,2016,Number,14000
+State,Connecticut,2017,Number,14000
+State,Connecticut,2012,Number,15000
+State,Connecticut,2014,Number,16000
+State,Connecticut,2015,Number,14000
+State,Connecticut,2011,Number,17000
+State,Connecticut,2010,Number,18000
+State,Connecticut,2009,Number,13000
+State,Connecticut,2018,Number,14000
+State,Connecticut,2013,Number,18000
+State,Connecticut,2008,Number,13000
+State,Delaware,2008,Number,3000
+State,Delaware,2013,Number,6000
+State,Delaware,2018,Number,5000
+State,Delaware,2009,Number,6000
+State,Delaware,2010,Number,6000
+State,Delaware,2011,Number,4000
+State,Delaware,2015,Number,4000
+State,Delaware,2014,Number,7000
+State,Delaware,2012,Number,6000
+State,Delaware,2017,Number,5000
+State,Delaware,2016,Number,5000
+State,Delaware,2021,Number,5000
+State,Delaware,2019,Number,6000
+City,District of Columbia,2019,Number,4000
+City,District of Columbia,2021,Number,5000
+City,District of Columbia,2016,Number,5000
+City,District of Columbia,2017,Number,7000
+City,District of Columbia,2012,Number,4000
+City,District of Columbia,2014,Number,5000
+City,District of Columbia,2015,Number,7000
+City,District of Columbia,2011,Number,8000
+City,District of Columbia,2010,Number,5000
+City,District of Columbia,2009,Number,5000
+City,District of Columbia,2018,Number,S
+City,District of Columbia,2013,Number,6000
+City,District of Columbia,2008,Number,8000
+State,Florida,2008,Number,110000
+State,Florida,2013,Number,132000
+State,Florida,2018,Number,121000
+State,Florida,2009,Number,111000
+State,Florida,2010,Number,130000
+State,Florida,2011,Number,125000
+State,Florida,2015,Number,126000
+State,Florida,2014,Number,132000
+State,Florida,2012,Number,126000
+State,Florida,2017,Number,123000
+State,Florida,2016,Number,122000
+State,Florida,2021,Number,121000
+State,Florida,2019,Number,107000
+State,Georgia,2019,Number,53000
+State,Georgia,2021,Number,83000
+State,Georgia,2016,Number,67000
+State,Georgia,2017,Number,65000
+State,Georgia,2012,Number,85000
+State,Georgia,2014,Number,72000
+State,Georgia,2015,Number,73000
+State,Georgia,2011,Number,85000
+State,Georgia,2010,Number,75000
+State,Georgia,2009,Number,81000
+State,Georgia,2018,Number,59000
+State,Georgia,2013,Number,81000
+State,Georgia,2008,Number,69000
+State,Hawaii,2008,Number,8000
+State,Hawaii,2013,Number,9000
+State,Hawaii,2018,Number,9000
+State,Hawaii,2009,Number,7000
+State,Hawaii,2010,Number,8000
+State,Hawaii,2011,Number,10000
+State,Hawaii,2015,Number,10000
+State,Hawaii,2014,Number,10000
+State,Hawaii,2012,Number,10000
+State,Hawaii,2017,Number,11000
+State,Hawaii,2016,Number,8000
+State,Hawaii,2021,Number,8000
+State,Hawaii,2019,Number,7000
+State,Idaho,2019,Number,7000
+State,Idaho,2021,Number,8000
+State,Idaho,2017,Number,10000
+State,Idaho,2016,Number,10000
+State,Idaho,2012,Number,9000
+State,Idaho,2014,Number,9000
+State,Idaho,2015,Number,10000
+State,Idaho,2011,Number,11000
+State,Idaho,2010,Number,10000
+State,Idaho,2009,Number,9000
+State,Idaho,2018,Number,5000
+State,Idaho,2013,Number,8000
+State,Idaho,2008,Number,6000
+State,Illinois,2008,Number,80000
+State,Illinois,2013,Number,67000
+State,Illinois,2018,Number,56000
+State,Illinois,2009,Number,88000
+State,Illinois,2010,Number,85000
+State,Illinois,2011,Number,80000
+State,Illinois,2015,Number,68000
+State,Illinois,2014,Number,81000
+State,Illinois,2012,Number,70000
+State,Illinois,2016,Number,56000
+State,Illinois,2017,Number,61000
+State,Illinois,2021,Number,65000
+State,Illinois,2019,Number,53000
+State,Indiana,2019,Number,33000
+State,Indiana,2021,Number,38000
+State,Indiana,2017,Number,39000
+State,Indiana,2016,Number,39000
+State,Indiana,2012,Number,40000
+State,Indiana,2014,Number,44000
+State,Indiana,2015,Number,42000
+State,Indiana,2011,Number,46000
+State,Indiana,2010,Number,47000
+State,Indiana,2009,Number,47000
+State,Indiana,2018,Number,32000
+State,Indiana,2013,Number,42000
+State,Indiana,2008,Number,36000
+State,Iowa,2008,Number,12000
+State,Iowa,2013,Number,12000
+State,Iowa,2018,Number,12000
+State,Iowa,2009,Number,15000
+State,Iowa,2010,Number,14000
+State,Iowa,2011,Number,15000
+State,Iowa,2015,Number,13000
+State,Iowa,2014,Number,10000
+State,Iowa,2012,Number,15000
+State,Iowa,2016,Number,15000
+State,Iowa,2017,Number,10000
+State,Iowa,2021,Number,11000
+State,Iowa,2019,Number,11000
+State,Kansas,2019,Number,11000
+State,Kansas,2021,Number,11000
+State,Kansas,2017,Number,13000
+State,Kansas,2016,Number,10000
+State,Kansas,2012,Number,16000
+State,Kansas,2014,Number,18000
+State,Kansas,2015,Number,18000
+State,Kansas,2011,Number,16000
+State,Kansas,2010,Number,13000
+State,Kansas,2009,Number,16000
+State,Kansas,2018,Number,13000
+State,Kansas,2013,Number,17000
+State,Kansas,2008,Number,14000
+State,Kentucky,2008,Number,36000
+State,Kentucky,2013,Number,32000
+State,Kentucky,2018,Number,33000
+State,Kentucky,2009,Number,40000
+State,Kentucky,2010,Number,40000
+State,Kentucky,2011,Number,39000
+State,Kentucky,2015,Number,38000
+State,Kentucky,2014,Number,38000
+State,Kentucky,2012,Number,40000
+State,Kentucky,2016,Number,31000
+State,Kentucky,2017,Number,29000
+State,Kentucky,2021,Number,33000
+State,Kentucky,2019,Number,34000
+State,Louisiana,2019,Number,42000
+State,Louisiana,2021,Number,48000
+State,Louisiana,2016,Number,45000
+State,Louisiana,2017,Number,44000
+State,Louisiana,2012,Number,45000
+State,Louisiana,2014,Number,49000
+State,Louisiana,2015,Number,42000
+State,Louisiana,2011,Number,50000
+State,Louisiana,2010,Number,51000
+State,Louisiana,2009,Number,50000
+State,Louisiana,2018,Number,44000
+State,Louisiana,2013,Number,48000
+State,Louisiana,2008,Number,42000
+State,Maine,2008,Number,7000
+State,Maine,2013,Number,7000
+State,Maine,2018,Number,5000
+State,Maine,2009,Number,6000
+State,Maine,2010,Number,7000
+State,Maine,2011,Number,6000
+State,Maine,2015,Number,8000
+State,Maine,2014,Number,8000
+State,Maine,2012,Number,9000
+State,Maine,2016,Number,7000
+State,Maine,2017,Number,6000
+State,Maine,2021,Number,5000
+State,Maine,2019,Number,5000
+State,Maryland,2021,Number,31000
+State,Maryland,2019,Number,28000
+State,Maryland,2016,Number,32000
+State,Maryland,2017,Number,30000
+State,Maryland,2012,Number,35000
+State,Maryland,2014,Number,31000
+State,Maryland,2015,Number,30000
+State,Maryland,2011,Number,28000
+State,Maryland,2010,Number,31000
+State,Maryland,2009,Number,32000
+State,Maryland,2018,Number,28000
+State,Maryland,2013,Number,38000
+State,Maryland,2008,Number,23000
+State,Massachusetts,2008,Number,35000
+State,Massachusetts,2013,Number,38000
+State,Massachusetts,2018,Number,26000
+State,Massachusetts,2009,Number,38000
+State,Massachusetts,2010,Number,38000
+State,Massachusetts,2011,Number,37000
+State,Massachusetts,2015,Number,31000
+State,Massachusetts,2014,Number,29000
+State,Massachusetts,2012,Number,39000
+State,Massachusetts,2017,Number,32000
+State,Massachusetts,2016,Number,33000
+State,Massachusetts,2019,Number,25000
+State,Massachusetts,2021,Number,30000
+State,Michigan,2021,Number,58000
+State,Michigan,2019,Number,47000
+State,Michigan,2016,Number,54000
+State,Michigan,2017,Number,57000
+State,Michigan,2012,Number,65000
+State,Michigan,2014,Number,64000
+State,Michigan,2015,Number,57000
+State,Michigan,2011,Number,69000
+State,Michigan,2010,Number,64000
+State,Michigan,2009,Number,60000
+State,Michigan,2018,Number,52000
+State,Michigan,2013,Number,65000
+State,Michigan,2008,Number,55000
+State,Minnesota,2008,Number,20000
+State,Minnesota,2013,Number,20000
+State,Minnesota,2018,Number,16000
+State,Minnesota,2009,Number,23000
+State,Minnesota,2010,Number,27000
+State,Minnesota,2011,Number,26000
+State,Minnesota,2015,Number,20000
+State,Minnesota,2014,Number,24000
+State,Minnesota,2012,Number,25000
+State,Minnesota,2017,Number,15000
+State,Minnesota,2016,Number,21000
+State,Minnesota,2019,Number,18000
+State,Minnesota,2021,Number,21000
+State,Mississippi,2021,Number,27000
+State,Mississippi,2019,Number,23000
+State,Mississippi,2016,Number,25000
+State,Mississippi,2017,Number,25000
+State,Mississippi,2012,Number,32000
+State,Mississippi,2014,Number,27000
+State,Mississippi,2015,Number,33000
+State,Mississippi,2011,Number,31000
+State,Mississippi,2010,Number,38000
+State,Mississippi,2009,Number,34000
+State,Mississippi,2018,Number,22000
+State,Mississippi,2013,Number,32000
+State,Mississippi,2008,Number,32000
+State,Missouri,2008,Number,33000
+State,Missouri,2013,Number,39000
+State,Missouri,2018,Number,28000
+State,Missouri,2009,Number,44000
+State,Missouri,2010,Number,39000
+State,Missouri,2011,Number,39000
+State,Missouri,2015,Number,34000
+State,Missouri,2014,Number,40000
+State,Missouri,2012,Number,42000
+State,Missouri,2017,Number,32000
+State,Missouri,2016,Number,31000
+State,Missouri,2019,Number,29000
+State,Missouri,2021,Number,30000
+State,Montana,2021,Number,4000
+State,Montana,2019,Number,3000
+State,Montana,2016,Number,4000
+State,Montana,2017,Number,5000
+State,Montana,2012,Number,5000
+State,Montana,2014,Number,6000
+State,Montana,2015,Number,8000
+State,Montana,2011,Number,6000
+State,Montana,2010,Number,5000
+State,Montana,2009,Number,8000
+State,Montana,2018,Number,4000
+State,Montana,2013,Number,6000
+State,Montana,2008,Number,5000
+State,Nebraska,2008,Number,7000
+State,Nebraska,2013,Number,9000
+State,Nebraska,2018,Number,8000
+State,Nebraska,2009,Number,8000
+State,Nebraska,2010,Number,8000
+State,Nebraska,2011,Number,10000
+State,Nebraska,2015,Number,9000
+State,Nebraska,2014,Number,8000
+State,Nebraska,2012,Number,9000
+State,Nebraska,2017,Number,7000
+State,Nebraska,2016,Number,6000
+State,Nebraska,2019,Number,7000
+State,Nebraska,2021,Number,8000
+State,Nevada,2021,Number,23000
+State,Nevada,2019,Number,20000
+State,Nevada,2016,Number,17000
+State,Nevada,2017,Number,19000
+State,Nevada,2012,Number,19000
+State,Nevada,2014,Number,19000
+State,Nevada,2015,Number,16000
+State,Nevada,2011,Number,18000
+State,Nevada,2010,Number,19000
+State,Nevada,2009,Number,22000
+State,Nevada,2018,Number,16000
+State,Nevada,2013,Number,16000
+State,Nevada,2008,Number,17000
+State,New Hampshire,2008,Number,6000
+State,New Hampshire,2013,Number,5000
+State,New Hampshire,2018,Number,5000
+State,New Hampshire,2009,Number,6000
+State,New Hampshire,2010,Number,6000
+State,New Hampshire,2011,Number,6000
+State,New Hampshire,2015,Number,4000
+State,New Hampshire,2014,Number,5000
+State,New Hampshire,2012,Number,7000
+State,New Hampshire,2017,Number,4000
+State,New Hampshire,2016,Number,4000
+State,New Hampshire,2019,Number,5000
+State,New Hampshire,2021,Number,4000
+State,New Jersey,2021,Number,37000
+State,New Jersey,2019,Number,37000
+State,New Jersey,2016,Number,40000
+State,New Jersey,2017,Number,38000
+State,New Jersey,2012,Number,48000
+State,New Jersey,2014,Number,44000
+State,New Jersey,2015,Number,45000
+State,New Jersey,2011,Number,46000
+State,New Jersey,2010,Number,54000
+State,New Jersey,2009,Number,47000
+State,New Jersey,2018,Number,40000
+State,New Jersey,2013,Number,49000
+State,New Jersey,2008,Number,37000
+State,New Mexico,2008,Number,22000
+State,New Mexico,2013,Number,20000
+State,New Mexico,2018,Number,19000
+State,New Mexico,2009,Number,19000
+State,New Mexico,2010,Number,22000
+State,New Mexico,2011,Number,22000
+State,New Mexico,2015,Number,22000
+State,New Mexico,2012,Number,22000
+State,New Mexico,2014,Number,19000
+State,New Mexico,2017,Number,19000
+State,New Mexico,2016,Number,19000
+State,New Mexico,2019,Number,16000
+State,New Mexico,2021,Number,17000
+State,New York,2021,Number,117000
+State,New York,2019,Number,106000
+State,New York,2016,Number,129000
+State,New York,2017,Number,120000
+State,New York,2014,Number,136000
+State,New York,2012,Number,141000
+State,New York,2015,Number,134000
+State,New York,2011,Number,147000
+State,New York,2010,Number,144000
+State,New York,2009,Number,142000
+State,New York,2018,Number,115000
+State,New York,2013,Number,138000
+State,New York,2008,Number,116000
+State,North Carolina,2008,Number,62000
+State,North Carolina,2013,Number,62000
+State,North Carolina,2018,Number,59000
+State,North Carolina,2009,Number,69000
+State,North Carolina,2010,Number,67000
+State,North Carolina,2011,Number,75000
+State,North Carolina,2015,Number,60000
+State,North Carolina,2012,Number,72000
+State,North Carolina,2014,Number,65000
+State,North Carolina,2017,Number,60000
+State,North Carolina,2016,Number,61000
+State,North Carolina,2019,Number,61000
+State,North Carolina,2021,Number,62000
+State,North Dakota,2021,Number,3000
+State,North Dakota,2019,Number,4000
+State,North Dakota,2016,Number,4000
+State,North Dakota,2017,Number,3000
+State,North Dakota,2014,Number,5000
+State,North Dakota,2012,Number,3000
+State,North Dakota,2015,Number,4000
+State,North Dakota,2011,Number,3000
+State,North Dakota,2009,Number,4000
+State,North Dakota,2010,Number,3000
+State,North Dakota,2018,Number,3000
+State,North Dakota,2013,Number,4000
+State,North Dakota,2008,Number,3000
+State,Ohio,2008,Number,68000
+State,Ohio,2013,Number,77000
+State,Ohio,2018,Number,70000
+State,Ohio,2009,Number,83000
+State,Ohio,2010,Number,82000
+State,Ohio,2011,Number,79000
+State,Ohio,2015,Number,67000
+State,Ohio,2012,Number,81000
+State,Ohio,2014,Number,80000
+State,Ohio,2017,Number,62000
+State,Ohio,2016,Number,69000
+State,Ohio,2019,Number,69000
+State,Ohio,2021,Number,71000
+State,Oklahoma,2021,Number,26000
+State,Oklahoma,2019,Number,27000
+State,Oklahoma,2016,Number,29000
+State,Oklahoma,2017,Number,27000
+State,Oklahoma,2014,Number,31000
+State,Oklahoma,2012,Number,29000
+State,Oklahoma,2015,Number,29000
+State,Oklahoma,2011,Number,33000
+State,Oklahoma,2010,Number,32000
+State,Oklahoma,2009,Number,34000
+State,Oklahoma,2018,Number,28000
+State,Oklahoma,2013,Number,35000
+State,Oklahoma,2008,Number,24000
+State,Oregon,2008,Number,20000
+State,Oregon,2013,Number,22000
+State,Oregon,2018,Number,20000
+State,Oregon,2009,Number,27000
+State,Oregon,2015,Number,19000
+State,Oregon,2010,Number,27000
+State,Oregon,2011,Number,28000
+State,Oregon,2012,Number,27000
+State,Oregon,2014,Number,29000
+State,Oregon,2017,Number,18000
+State,Oregon,2016,Number,19000
+State,Oregon,2019,Number,14000
+State,Oregon,2021,Number,18000
+State,Pennsylvania,2021,Number,73000
+State,Pennsylvania,2019,Number,63000
+State,Pennsylvania,2016,Number,70000
+State,Pennsylvania,2017,Number,70000
+State,Pennsylvania,2014,Number,77000
+State,Pennsylvania,2012,Number,83000
+State,Pennsylvania,2011,Number,86000
+State,Pennsylvania,2010,Number,88000
+State,Pennsylvania,2015,Number,78000
+State,Pennsylvania,2009,Number,80000
+State,Pennsylvania,2018,Number,60000
+State,Pennsylvania,2013,Number,75000
+State,Pennsylvania,2008,Number,79000
+State,Rhode Island,2008,Number,6000
+State,Rhode Island,2013,Number,7000
+State,Rhode Island,2018,Number,6000
+State,Rhode Island,2009,Number,6000
+State,Rhode Island,2015,Number,5000
+State,Rhode Island,2010,Number,7000
+State,Rhode Island,2011,Number,6000
+State,Rhode Island,2012,Number,7000
+State,Rhode Island,2014,Number,6000
+State,Rhode Island,2017,Number,4000
+State,Rhode Island,2016,Number,7000
+State,Rhode Island,2019,Number,3000
+State,Rhode Island,2021,Number,5000
+State,South Carolina,2021,Number,29000
+State,South Carolina,2019,Number,27000
+State,South Carolina,2016,Number,31000
+State,South Carolina,2017,Number,32000
+State,South Carolina,2014,Number,33000
+State,South Carolina,2012,Number,38000
+State,South Carolina,2011,Number,35000
+State,South Carolina,2010,Number,40000
+State,South Carolina,2015,Number,30000
+State,South Carolina,2009,Number,35000
+State,South Carolina,2018,Number,31000
+State,South Carolina,2013,Number,37000
+State,South Carolina,2008,Number,39000
+State,South Dakota,2008,Number,5000
+State,South Dakota,2013,Number,5000
+State,South Dakota,2018,Number,5000
+State,South Dakota,2009,Number,5000
+State,South Dakota,2015,Number,5000
+State,South Dakota,2010,Number,5000
+State,South Dakota,2011,Number,4000
+State,South Dakota,2012,Number,5000
+State,South Dakota,2014,Number,5000
+State,South Dakota,2017,Number,5000
+State,South Dakota,2016,Number,5000
+State,South Dakota,2019,Number,4000
+State,South Dakota,2021,Number,5000
+State,Tennessee,2021,Number,42000
+State,Tennessee,2019,Number,39000
+State,Tennessee,2016,Number,47000
+State,Tennessee,2017,Number,43000
+State,Tennessee,2014,Number,49000
+State,Tennessee,2012,Number,47000
+State,Tennessee,2011,Number,48000
+State,Tennessee,2010,Number,61000
+State,Tennessee,2015,Number,50000
+State,Tennessee,2009,Number,50000
+State,Tennessee,2018,Number,49000
+State,Tennessee,2013,Number,54000
+State,Tennessee,2008,Number,43000
+State,Texas,2008,Number,204000
+State,Texas,2013,Number,224000
+State,Texas,2018,Number,233000
+State,Texas,2009,Number,256000
+State,Texas,2015,Number,225000
+State,Texas,2010,Number,241000
+State,Texas,2011,Number,256000
+State,Texas,2012,Number,245000
+State,Texas,2014,Number,238000
+State,Texas,2017,Number,219000
+State,Texas,2016,Number,231000
+State,Texas,2019,Number,205000
+State,Texas,2021,Number,209000
+State,Utah,2021,Number,14000
+State,Utah,2019,Number,11000
+State,Utah,2017,Number,14000
+State,Utah,2016,Number,12000
+State,Utah,2014,Number,14000
+State,Utah,2012,Number,15000
+State,Utah,2011,Number,15000
+State,Utah,2010,Number,15000
+State,Utah,2015,Number,14000
+State,Utah,2009,Number,14000
+State,Utah,2018,Number,12000
+State,Utah,2013,Number,14000
+State,Utah,2008,Number,10000
+State,Vermont,2008,Number,3000
+State,Vermont,2013,Number,4000
+State,Vermont,2018,Number,2000
+State,Vermont,2009,Number,3000
+State,Vermont,2015,Number,2000
+State,Vermont,2010,Number,4000
+State,Vermont,2011,Number,3000
+State,Vermont,2012,Number,3000
+State,Vermont,2014,Number,3000
+State,Vermont,2016,Number,4000
+State,Vermont,2017,Number,2000
+State,Vermont,2019,Number,2000
+State,Vermont,2021,Number,3000
+State,Virginia,2021,Number,37000
+State,Virginia,2019,Number,35000
+State,Virginia,2017,Number,36000
+State,Virginia,2016,Number,41000
+State,Virginia,2014,Number,41000
+State,Virginia,2012,Number,44000
+State,Virginia,2011,Number,42000
+State,Virginia,2010,Number,46000
+State,Virginia,2015,Number,40000
+State,Virginia,2009,Number,41000
+State,Virginia,2018,Number,45000
+State,Virginia,2013,Number,46000
+State,Virginia,2008,Number,38000
+State,Washington,2008,Number,37000
+State,Washington,2013,Number,44000
+State,Washington,2018,Number,33000
+State,Washington,2009,Number,37000
+State,Washington,2015,Number,38000
+State,Washington,2010,Number,47000
+State,Washington,2011,Number,40000
+State,Washington,2012,Number,44000
+State,Washington,2014,Number,40000
+State,Washington,2016,Number,35000
+State,Washington,2017,Number,37000
+State,Washington,2019,Number,35000
+State,Washington,2021,Number,40000
+State,West Virginia,2021,Number,13000
+State,West Virginia,2019,Number,14000
+State,West Virginia,2017,Number,18000
+State,West Virginia,2016,Number,18000
+State,West Virginia,2014,Number,18000
+State,West Virginia,2012,Number,17000
+State,West Virginia,2011,Number,19000
+State,West Virginia,2010,Number,19000
+State,West Virginia,2015,Number,16000
+State,West Virginia,2009,Number,18000
+State,West Virginia,2018,Number,15000
+State,West Virginia,2013,Number,18000
+State,West Virginia,2008,Number,15000
+State,Wisconsin,2008,Number,22000
+State,Wisconsin,2013,Number,25000
+State,Wisconsin,2018,Number,21000
+State,Wisconsin,2009,Number,23000
+State,Wisconsin,2015,Number,24000
+State,Wisconsin,2010,Number,29000
+State,Wisconsin,2011,Number,24000
+State,Wisconsin,2012,Number,31000
+State,Wisconsin,2014,Number,30000
+State,Wisconsin,2016,Number,23000
+State,Wisconsin,2017,Number,22000
+State,Wisconsin,2019,Number,19000
+State,Wisconsin,2021,Number,24000
+State,Wyoming,2021,Number,2000
+State,Wyoming,2019,Number,2000
+State,Wyoming,2017,Number,2000
+State,Wyoming,2016,Number,2000
+State,Wyoming,2014,Number,3000
+State,Wyoming,2012,Number,3000
+State,Wyoming,2011,Number,2000
+State,Wyoming,2010,Number,3000
+State,Wyoming,2015,Number,3000
+State,Wyoming,2009,Number,2000
+State,Wyoming,2018,Number,3000
+State,Wyoming,2013,Number,2000
+State,Wyoming,2008,Number,3000
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
