@@ -1,0 +1,354 @@
+---
+title: "Portfolio"
+author: "Athena"
+date: "2023-09-15"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(httr)
+library(jsonlite)
+library(rvest)
+library(lubridate)
+library(dplyr)
+library(usmap)
+library(ggplot2)
+library(tidyverse)
+library(choroplethr)
+library(choroplethrMaps)
+library(shiny)
+library(leaflet)    
+library(shiny)
+library(shinydashboard)
+library(geojsonio)
+library(sp)
+```
+
+For this project I'm making a shiny page focusing on Head Start data 
+
+Using Web scrapping to get a table of poverty line data overtime, which will be used on my shiny page 
+
+```{r}
+pov_link = "http://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines/prior-hhs-poverty-guidelines-federal-register-references"
+
+pov_page = read_html(pov_link)
+table_poverty_line = pov_page %>% html_nodes("table.footable.table-align-left")%>%
+  html_table() %>%.[[1]]
+
+```
+
+Using webscraping to get a quote about Head Start I will use in my shiny page 
+
+```{r}
+HS_quote_link = "https://eclkc.ohs.acf.hhs.gov/programs/article/head-start-approach"
+HS_quote_page = read_html(HS_quote_link) %>% html_nodes("p:nth-child(1) , p:nth-child(2)") %>% html_text()
+HS_quote <-  HS_quote_page[-c(1, 2)] 
+
+quote <- paste( unlist(HS_quote), collapse=' ')
+print(quote)
+```
+
+
+
+Don't forget to set your path! 
+
+```{r}
+setwd('C:/Users/athen/OneDrive/Documents/GitHub/data-analysis-portfolio/Shiny_R_Project')
+head_start_data = read.csv("Head Start enrollment by age group.csv", header = TRUE)
+population_data = read.csv("Child population by single age.csv", header = TRUE)
+location_data = read.csv("Head Start Center Locations.csv", header = TRUE)
+working = read.csv("low_income_working.csv", header = TRUE)
+not_working = read.csv("children_no_working_parents.csv", header = TRUE)
+```
+
+
+For this analysis I'm only going to focus on kids under four because these are the ones primarily in Head Start 
+```{r}
+population_data <- subset(population_data, Single.Age != "") 
+
+population_data$Single.Age[population_data$Single.Age == '1' | population_data$Single.Age == '<1'| population_data$Single.Age == '2'] <- '<3'
+
+```
+
+```{r}
+colnames(population_data)[colnames(population_data) == 'Single.Age'] <- "Age.group"
+colnames(population_data)[colnames(population_data) == 'Data'] <- "Population"
+colnames(head_start_data)[colnames(head_start_data) == 'Data'] <- "Headstart"
+population_data <- subset(population_data, select = -DataFormat)
+head_start_data <- subset(head_start_data, select = -DataFormat)
+```
+
+I'm merging population and Head Start data based on age and state, and year so I can calculate a percentage 
+
+
+```{r}
+merged = merge(population_data, head_start_data, by =c('Age.group', 'Location', 'TimeFrame', 'LocationType'))
+colnames(merged)[colnames(merged) == 'Location'] <- "state"
+merged['name']<- merged['state']
+merged$state= state.abb[match(merged$state,state.name)]
+
+
+```
+
+The location data also included US territories,so I'm removing them and creating a percentage.
+
+
+
+```{r}
+state_list <- as.list(unique(merged$state))
+location_data <- subset(location_data, state %in% state_list) 
+merged$year <- as.numeric(merged$TimeFrame)
+merged["value"]= 100 * (as.numeric(merged$Headstart)/as.numeric(merged$Population))
+
+```
+
+I also want to create a data set which included percent of low income children who are in head start. Because the datasets I had were aggregated based on whether parents were working 
+```{r}
+head_start_data_total <- head_start_data[head_start_data$Age.group == 'Total',]
+```
+
+Cleaning the data for working and not working families add adding them 
+```{r}
+colnames(working)[colnames(working) == 'Data'] <- "Working"
+working <- working[working$Age.group == "less than 6",]
+
+colnames(not_working)[colnames(not_working) == 'Data'] <- "Not Working"
+lowincome = merge(working, not_working, by =c('Location', 'TimeFrame', 'LocationType'))
+
+lowincome = merge(lowincome, head_start_data_total, by =c('Location', 'TimeFrame', 'LocationType'))
+
+```
+
+There were two NAs some of the results for DC was missing for two years
+DC also doesn't appear on the map, so I'm dropping it by filtering by state
+```{r}
+lowincome$value<- 100* as.numeric(lowincome$Headstart)/(as.numeric(lowincome$Working) + as.numeric(lowincome$`Not Working`))
+lowincome$name <- lowincome$Location
+lowincome$year<- as.numeric(lowincome$TimeFrame)
+lowincome <- lowincome[lowincome$LocationType == "State",]
+```
+
+
+
+Here I'm matching latitude and longitude points and county data to map states enrollment in Head Start and map Head Start locations
+
+```{r}
+head_start_lonlat <- data.frame(lat = location_data$latitude, lon = location_data$longitude, state = location_data$state)
+transformed_data <- usmap_transform(head_start_lonlat)
+
+```
+
+```{r}
+location_data$lat <- location_data$latitude
+location_data$lon <- location_data$longitude
+transformed_data_state<- usmap_transform(location_data)
+
+```
+
+
+I'm matching counties with Fip codes to be able to map on a county level 
+```{r}
+Fips <- location_data %>% 
+    group_by(state) %>% 
+    summarise(region = list(fips(state = first(state), county = county))) %>%
+    unnest(c(region))
+
+Fips <- transform(Fips, values = ave(seq(nrow(Fips)), region, FUN=length))
+Fips$fips <- as.numeric(Fips$region)
+Unique_Fips <- Fips[!duplicated(Fips["fips"]),]
+us <- usmap::us_map()
+```
+
+I'm also loading geo-data to make an interactive leaflet map
+
+```{r}
+states <- geojsonio::geojson_read("https://rstudio.github.io/leaflet/json/us-states.geojson", what = "sp")
+```
+
+
+
+
+
+Run this to create the shiny page 
+```{r}
+choiceName <- c("Yes", "No")
+
+ui <- fluidPage(
+   fluidRow( 
+  titlePanel(
+    h1("Learn More about Enrolled in Head start", align = "center", style = "font-weight: 500; color: white; background-color: #000080"))),
+   fluidRow( 
+      tabsetPanel(
+        id = "tabset",
+        tabPanel("Introduction", 
+                 
+   h2("Introduction", align = "center", style = "font-weight: 400"),
+  fluidRow( column(12, offset = 2, mainPanel(p(quote)))),
+   fluidRow( column(12, offset= 3,
+  mainPanel(p("-“Head Start Approach | ECLKC.” 2022. August 9, 2022. https://eclkc.ohs.acf.hhs.gov/programs/article/head-start-approach")))),
+  fluidRow(column(12,align="center", plotOutput("photo"))),
+  fluidRow( column(12, offset = 2, mainPanel(p("Photograph, Lady Bird Johnson Visiting a Project Head Start Classroom,
+March 19, 1966
+Johnson White House Photographs
+National Archives, White House Photo Office Collection (National Archives Identifier 596401)"))))),
+        tabPanel("Nation Wide", fluidRow(
+  column(3, offset = 2, selectInput("age", label = "Pick an Age Group", choices = unique(merged$Age.group))),
+  column(4, sliderInput("year", "Pick a Year", value = 2019, min = 1990, max = 2019, sep = ""))),
+    titlePanel(
+    h2(textOutput("description"), align = "center", style = "font-weight: 300")),
+  fluidPage(leafletOutput("mymap")),
+  titlePanel(
+    h2(textOutput("map2_des"), align = "center", style = "font-weight: 300")),
+  fluidPage(leafletOutput("map_income")),
+  fluidRow( column(12, offset = 2, mainPanel(p("Population Division, U.S. Census Bureau. 2023. “Office of Head Start (OHS). 2022. “Head Start Enrollment by Age Group, Annual Program Information Report (PIR).” Kids Count Data Center. https://datacenter.aecf.org/data/tables/9786-head-start-enrollment-by-age-group?loc=1&loct=2#detailed/2/2-53/false")))),
+    fluidRow( column(12, offset = 2, mainPanel(p("Population Reference Bureau, U.S. Census Bureau. 2022. “The Share of Children under Age 6 Whose Resident Parents Are Not in the Civilian Labor Force.” Kids Count Data Center. https://datacenter.aecf.org/data/tables/5056-children-under-age-6-with-no-parent-in-the-labor-force?loc=1&loct=2#detailed/2/2-53/false/")))),
+  fluidRow( column(12, offset = 2, mainPanel(p("Population Reference Bureau, U.S. Census Bureau. 2022. 2022b. “Children in Low-Income Working Families by Age Group in United States.” Kids Count Data Center. https://datacenter.aecf.org/data/tables/5048-children-in-low-income-working-families-by-age-group?loc=1&loct=1#detailed/1/any/false/2048,1729,37,871,870,573,869,36,868,867/34,35,36/11455,11456.")))),
+  fluidRow( column(12, offset = 2, mainPanel(p("Population Division, U.S. Census Bureau. 2023. “Child Population by Single Age.” Kids Count Data Center. https://datacenter.aecf.org/data/tables/100-child-population-by-single-age?loc=1&loct=2#detailed/2/2-53/false/"))))),
+        tabPanel("Head Start State Locations",  
+                 h2(textOutput("states_name"), align = "center", style = "font-weight: 300"),
+                 fluidRow( column(3, offset = 4, selectInput("state", label = "Pick a State to learn about?", choices = sort(unique(location_data$state))))),
+    fluidRow(column(6, offset = 4, checkboxInput("location_points", "Do you want to overlay state map with Head Start Location Cordinates?", value = F))),
+  fluidRow( column(12, offset = 1,
+  plotOutput("state_plot", width = 1000))),
+  fluidRow( column(12, offset= 3,
+  mainPanel(p("“Head Start Center Location Datasets | ECLKC.” n.d. Accessed October 2, 2023. https://eclkc.ohs.acf.hhs.gov/about-us/article/head-start-center-location-datasets."))))
+                 ),
+        tabPanel("Poverty Data", h2("Poverty Line Overtime", align = "center", style = "font-weight: 300"),
+        fluidRow( column(12, offset = 2, mainPanel(p("Head Start elligibilty is based on the federal poverty line, this table shows what the federal poverty line overtime")))),
+        fluidRow(column(offset = 3, 
+            dataTableOutput(outputId = "table"), width = 7),
+            
+    )))),)
+
+server <- function(input, output, session) {
+  output$photo <- renderImage({
+    filename <- normalizePath("C:/Users/athen/OneDrive/Documents/GitHub/data-analysis-portfolio/Shiny_R_Project/Images/head_start_picture.jpeg")
+        list(src = filename)
+  }, deleteFile = FALSE)
+  
+output$description <- renderText({ 
+    text_year <- input$year
+    age_range <- input$age
+      paste(text_year, " Percent of Children ", age_range, " Years Old Enrolled in Head Start" )
+  })
+
+output$map2_des <- renderText({ 
+  if(input$year > 2008){ 
+    text_year <- input$year} else {
+    text_year <- 2008 }
+    paste(text_year, "Percent of Low Income Children Under Six in Head Start")
+  })
+
+
+output$states_name <- renderText({ 
+    text_state <- input$state
+    text_state <- state.name[match(text_state,state.abb)]
+      paste("2023 Head Start Locations in ", text_state)
+  })
+    output$table <- renderDataTable({table_poverty_line}, 
+        options = list(scrollX = FALSE))
+
+output$static <- renderTable(table_poverty_line)
+output$state_plot <- renderPlot({{
+  if(input$location_points){ 
+    transformed_data_state <- transformed_data[transformed_data$state == input$state ,]
+  plot_usmap(regions = "counties", data = Unique_Fips, color = "black", include = c(input$state)) +
+    theme(plot.title = element_text(hjust = 0.5, face = "bold"))+
+    labs(title = "Number of Head Start Locations Per County") + 
+    theme(panel.background = element_rect(colour = "black"))+
+    ggplot2::scale_fill_distiller(palette = "YlGnBu", name = "Number of Head Start Locations \n (Scale Changes Based on State)", label = scales::comma) + theme(legend.position = "right") +
+  geom_point(data = transformed_data_state, 
+             aes(x = x, y = y), 
+             color = "black",
+             fill = "#FFBF1F",
+             size = 1.5,
+             shape = 21)
+    
+  }else{
+    
+    transformed_data_state <- transformed_data[transformed_data$state == input$state ,]
+  plot_usmap(regions = "counties", data = Unique_Fips, color = "black", include = c(input$state)) +
+    theme(plot.title = element_text(hjust = 0.5, face = "bold"))+
+    labs(title = "Number of Head Start Locations Per County") + 
+    theme(panel.background = element_rect(colour = "black"))+
+    ggplot2::scale_fill_distiller(palette = "YlGnBu", name = "Number of Head Start Locations \n (Scale Changes Based on State)", label = scales::comma) + theme(legend.position = "right")
+    }}
+})
+
+output$mymap <- renderLeaflet({{
+   reactive_df <- merged[merged$Age.group == input$age & merged$year == input$year, ]
+  spacial_maping <- sp::merge(x= states, y=reactive_df, by ='name', duplicateGeoms = TRUE)
+pal <- colorNumeric("Spectral", domain = c(0,45), reverse = TRUE, na.color = NA)
+labels <- sprintf(
+  "<strong>%s</strong><br/>%g%%",
+  spacial_maping$name, round(spacial_maping$value, digits = 2)
+) %>% lapply(htmltools::HTML)
+
+leaflet(spacial_maping) %>%
+  setView(-96, 37.8, 4) %>%
+  addTiles() %>%
+  addPolygons(
+    fillColor = ~pal(value),
+    weight = 2,
+    opacity = 1,
+    color = "white",
+    dashArray = "3",
+    fillOpacity = 0.7,
+    highlightOptions = highlightOptions(
+      weight = 5,
+      dashArray = "",
+      fillOpacity = 0.7,
+      bringToFront = TRUE),
+    label = labels,
+    labelOptions = labelOptions(
+      style = list("font-weight" = "normal", padding = "3px 8px"),
+      textsize = "15px",
+      direction = "auto")) %>%
+  addLegend(pal = pal, values = ~value, opacity = 0.7, title = "Percent of Children </br> in Head Start",
+    position = "bottomright") 
+  }})
+
+output$map_income <- renderLeaflet({{
+  if(input$year > 2008){ 
+   reactive_df <- lowincome[lowincome$year == input$year, ]}
+  else {reactive_df <-lowincome[lowincome$year == 2008, ]}
+  spacial_maping <- sp::merge(x= states, y=reactive_df, by ='name', duplicateGeoms = TRUE)
+pal <- colorNumeric("RdYlBu", domain = c(0,35), reverse = TRUE, na.color = NA)
+labels <- sprintf(
+  "<strong>%s</strong><br/>%g%%",
+  spacial_maping$name, round(spacial_maping$value, digits = 2)
+) %>% lapply(htmltools::HTML)
+
+leaflet(spacial_maping) %>%
+  setView(-96, 37.8, 4) %>%
+  addTiles() %>%
+  addPolygons(
+    fillColor = ~pal(value),
+    weight = 2,
+    opacity = 1,
+    color = "white",
+    dashArray = "3",
+    fillOpacity = 0.7,
+    highlightOptions = highlightOptions(
+      weight = 5,
+      dashArray = "",
+      fillOpacity = 0.7,
+      bringToFront = TRUE),
+    label = labels,
+    labelOptions = labelOptions(
+      style = list("font-weight" = "normal", padding = "3px 8px"),
+      textsize = "15px",
+      direction = "auto")) %>%
+  addLegend(pal = pal, values = ~value, opacity = 0.7, title = "Percent of Low Income </br> Children Under Six </br> in Head Start",
+    position = "bottomright") 
+  }})
+
+}
+shinyApp(ui, server)
+```
+
+
